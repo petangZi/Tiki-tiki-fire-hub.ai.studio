@@ -1,0 +1,1621 @@
+{
+  "desktop": {
+    "landing": {
+      "hash": "",
+      "title": "TIKI-TIKI FIRE HUB",
+      "scrollW": 1440,
+      "innerW": 1440,
+      "overflow": false,
+      "textLen": 1166,
+      "excerpt": "T I K I - T I K I F I R E H U B COMMUNITY SUPPORTER PLATFORM & PROMPT VAULT Menghubungkan ke Cloud Firestore Database CONNECTING... 29% Lewati Transisi Tiki-Tiki Fire Hub Community Supporter PLATFORM UTAMA Dashboard 0 AI Agent (Idle Workspace) LIVE Tiki Vault 0 VIP Lisensi & Legal LEGAL Aktivasi Lisensi KOMUNITAS Voting Fitur 0 Beta Lab AKUN & PROFIL Profil Pengguna Cloud Firestore Live Dashboard Ringkasan lisensi su",
+      "smallCount": 27,
+      "small": [
+        {
+          "label": "Lewati Transisi",
+          "w": 146,
+          "h": 34
+        },
+        {
+          "label": "Dashboard 0",
+          "w": 259,
+          "h": 35
+        },
+        {
+          "label": "AI Agent (Idle Workspace) LI",
+          "w": 259,
+          "h": 34
+        },
+        {
+          "label": "Tiki Vault 0 VIP",
+          "w": 259,
+          "h": 34
+        },
+        {
+          "label": "Lisensi & Legal LEGAL",
+          "w": 259,
+          "h": 34
+        },
+        {
+          "label": "Aktivasi Lisensi",
+          "w": 259,
+          "h": 32
+        },
+        {
+          "label": "Voting Fitur 0",
+          "w": 259,
+          "h": 33
+        },
+        {
+          "label": "Beta Lab",
+          "w": 259,
+          "h": 32
+        },
+        {
+          "label": "Profil Pengguna",
+          "w": 259,
+          "h": 32
+        },
+        {
+          "label": "Cari Prompt & Lisensi",
+          "w": 36,
+          "h": 36
+        },
+        {
+          "label": "Kotak Masuk",
+          "w": 36,
+          "h": 36
+        },
+        {
+          "label": "Intro",
+          "w": 73,
+          "h": 32
+        },
+        {
+          "label": "Lisensi",
+          "w": 86,
+          "h": 32
+        },
+        {
+          "label": "AI Agent",
+          "w": 97,
+          "h": 32
+        }
+      ],
+      "inputs": [],
+      "focusables": 27,
+      "headings": [
+        "H1:Tiki-Tiki Fire Hub",
+        "H2:Dashboard",
+        "H2:Pusat Lisensi Supporter & Koleksi Prompt Eks",
+        "H3:Koleksi Terpopuler Tiki Prompt Vault"
+      ],
+      "buttons": [
+        "Lewati Transisi",
+        "Dashboard 0",
+        "AI Agent (Idle Workspace) LIVE",
+        "Tiki Vault 0 VIP",
+        "Lisensi & Legal LEGAL",
+        "Aktivasi Lisensi",
+        "Voting Fitur 0",
+        "Beta Lab",
+        "Profil Pengguna",
+        "",
+        "",
+        "Intro",
+        "Lisensi",
+        "AI Agent",
+        "Masuk",
+        "Ringkasan",
+        "AI Agent",
+        "Riwayat Donasi 0",
+        "Tiki Vault 0",
+        "Lisensi & Legal",
+        "Urutkan: Terbaru",
+        "Dukung Komunitas",
+        "Buka AI Chat",
+        "Masuk / Akun",
+        "Dukung Komunitas",
+        "Buka Semua Prompt",
+        "AI Chat"
+      ],
+      "emptyStates": [],
+      "numBadges": 11,
+      "disabled": []
+    },
+    "Tiki Vault": {
+      "hash": "",
+      "title": "TIKI-TIKI FIRE HUB",
+      "scrollW": 1440,
+      "innerW": 1440,
+      "overflow": false,
+      "textLen": 6715,
+      "excerpt": "Tiki-Tiki Fire Hub Community Supporter PLATFORM UTAMA Dashboard 12 AI Agent (Idle Workspace) LIVE Tiki Vault 12 VIP Lisensi & Legal LEGAL Aktivasi Lisensi KOMUNITAS Voting Fitur 0 Beta Lab AKUN & PROFIL Profil Pengguna Cloud Firestore Live Tiki Prompt Vault Koleksi prompt reasoning dan arsitektur instruksi khusus supporter Intro Lisensi AI Agent Masuk Dukung Komunitas Tiki Prompt Vault Koleksi Supporter Eksklusif Pem",
+      "smallCount": 66,
+      "small": [
+        {
+          "label": "Dashboard 12",
+          "w": 259,
+          "h": 35
+        },
+        {
+          "label": "AI Agent (Idle Workspace) LI",
+          "w": 259,
+          "h": 34
+        },
+        {
+          "label": "Tiki Vault 12 VIP",
+          "w": 259,
+          "h": 34
+        },
+        {
+          "label": "Lisensi & Legal LEGAL",
+          "w": 259,
+          "h": 34
+        },
+        {
+          "label": "Aktivasi Lisensi",
+          "w": 259,
+          "h": 32
+        },
+        {
+          "label": "Voting Fitur 0",
+          "w": 259,
+          "h": 33
+        },
+        {
+          "label": "Beta Lab",
+          "w": 259,
+          "h": 32
+        },
+        {
+          "label": "Profil Pengguna",
+          "w": 259,
+          "h": 32
+        },
+        {
+          "label": "Cari Prompt & Lisensi",
+          "w": 36,
+          "h": 36
+        },
+        {
+          "label": "Kotak Masuk",
+          "w": 36,
+          "h": 36
+        },
+        {
+          "label": "Intro",
+          "w": 73,
+          "h": 32
+        },
+        {
+          "label": "Lisensi",
+          "w": 86,
+          "h": 32
+        },
+        {
+          "label": "AI Agent",
+          "w": 97,
+          "h": 32
+        },
+        {
+          "label": "Masuk",
+          "w": 85,
+          "h": 32
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "id": "",
+          "placeholder": "Cari prompt berdasarkan nama, model, kategori, atau tag...",
+          "hasLabel": false,
+          "autocomplete": null,
+          "inputmode": null
+        },
+        {
+          "type": "select-one",
+          "name": "",
+          "id": "",
+          "hasLabel": false,
+          "autocomplete": null,
+          "inputmode": null
+        },
+        {
+          "type": "select-one",
+          "name": "",
+          "id": "",
+          "hasLabel": false,
+          "autocomplete": null,
+          "inputmode": null
+        }
+      ],
+      "focusables": 67,
+      "headings": [
+        "H1:Tiki-Tiki Fire Hub",
+        "H2:Tiki Prompt Vault",
+        "H1:Tiki Prompt Vault 12 Prompt Terdaftar",
+        "H3:OpenCode Test Verification",
+        "H3:tikiBigAgent",
+        "H3:tiki elder agents",
+        "H3:Haiku 99.99",
+        "H3:Deepseek simple 100%",
+        "H3:Grok dark",
+        "H3:Simple deepseek",
+        "H3:Eni wine F1",
+        "H3:tiki perplexity",
+        "H3:cluster deepseek instructions",
+        "H3:TIKI FLY \u2014 Dual Engine Forensic Reconstructi",
+        "H3:TIKI SPICY'S \u2014 Penulis Adegan Kriminal & Pem",
+        "H4:Pembersih Teks & Pemeriksa Integritas Tokeni"
+      ],
+      "buttons": [
+        "Dashboard 12",
+        "AI Agent (Idle Workspace) LIVE",
+        "Tiki Vault 12 VIP",
+        "Lisensi & Legal LEGAL",
+        "Aktivasi Lisensi",
+        "Voting Fitur 0",
+        "Beta Lab",
+        "Profil Pengguna",
+        "",
+        "",
+        "Intro",
+        "Lisensi",
+        "AI Agent",
+        "Masuk",
+        "Dukung Komunitas",
+        "Lisensi & Disclaimer",
+        "Dapatkan / Beli Membership",
+        "Punya Kunci? Redeem Lisensi",
+        "Versi Beta",
+        "Semua",
+        "Perplexity",
+        "Claude 3.7 / 3.5",
+        "Sonnet 5",
+        "DeepSeek R1",
+        "OpenAI GPT-4o",
+        "Gemini 2.5",
+        "Buka Akses Membership",
+        "Redeem Key",
+        "Buka Akses (Membership)",
+        "Buka Akses Membership"
+      ],
+      "emptyStates": [],
+      "numBadges": 80,
+      "disabled": []
+    },
+    "Voting Fitur": {
+      "hash": "",
+      "title": "TIKI-TIKI FIRE HUB",
+      "scrollW": 1440,
+      "innerW": 1440,
+      "overflow": false,
+      "textLen": 836,
+      "excerpt": "Tiki-Tiki Fire Hub Community Supporter PLATFORM UTAMA Dashboard 12 AI Agent (Idle Workspace) LIVE Tiki Vault 12 VIP Lisensi & Legal LEGAL Aktivasi Lisensi KOMUNITAS Voting Fitur 0 Beta Lab AKUN & PROFIL Profil Pengguna Cloud Firestore Live Voting & Komunitas Tentukan prioritas pembaruan fitur dan modul berikutnya Intro Lisensi AI Agent Masuk Dukung Komunitas Community Voting Tentukan prioritas fitur dan arsitektur ri",
+      "smallCount": 17,
+      "small": [
+        {
+          "label": "Dashboard 12",
+          "w": 259,
+          "h": 33
+        },
+        {
+          "label": "AI Agent (Idle Workspace) LI",
+          "w": 259,
+          "h": 34
+        },
+        {
+          "label": "Tiki Vault 12 VIP",
+          "w": 259,
+          "h": 34
+        },
+        {
+          "label": "Lisensi & Legal LEGAL",
+          "w": 259,
+          "h": 34
+        },
+        {
+          "label": "Aktivasi Lisensi",
+          "w": 259,
+          "h": 32
+        },
+        {
+          "label": "Voting Fitur 0",
+          "w": 259,
+          "h": 35
+        },
+        {
+          "label": "Beta Lab",
+          "w": 259,
+          "h": 32
+        },
+        {
+          "label": "Profil Pengguna",
+          "w": 259,
+          "h": 32
+        },
+        {
+          "label": "Cari Prompt & Lisensi",
+          "w": 36,
+          "h": 36
+        },
+        {
+          "label": "Kotak Masuk",
+          "w": 36,
+          "h": 36
+        },
+        {
+          "label": "Intro",
+          "w": 73,
+          "h": 32
+        },
+        {
+          "label": "Lisensi",
+          "w": 86,
+          "h": 32
+        },
+        {
+          "label": "AI Agent",
+          "w": 97,
+          "h": 32
+        },
+        {
+          "label": "Masuk",
+          "w": 85,
+          "h": 32
+        }
+      ],
+      "inputs": [],
+      "focusables": 17,
+      "headings": [
+        "H1:Tiki-Tiki Fire Hub",
+        "H2:Voting & Komunitas",
+        "H1:Community Voting",
+        "H3:\ud83d\udd10 Hanya Supporter Terverifikasi yang dapat ",
+        "H3:Belum Ada Polling Aktif"
+      ],
+      "buttons": [
+        "Dashboard 12",
+        "AI Agent (Idle Workspace) LIVE",
+        "Tiki Vault 12 VIP",
+        "Lisensi & Legal LEGAL",
+        "Aktivasi Lisensi",
+        "Voting Fitur 0",
+        "Beta Lab",
+        "Profil Pengguna",
+        "",
+        "",
+        "Intro",
+        "Lisensi",
+        "AI Agent",
+        "Masuk",
+        "Dukung Komunitas",
+        "Support untuk Buka Hak Suara",
+        "AI Chat"
+      ],
+      "emptyStates": [
+        "Tiki-Tiki Fire Hub Community Supporter PLATFORM UTAMA Dashboard 12 AI Agent (Idle Workspace) LIVE Tiki Vault 12 VIP Lisensi & Legal LEGAL Aktivasi Lisensi KOMUNITAS Voting Fitur 0 Beta Lab AKUN & PROFIL Profil Pengguna Cloud Firestore Live Voting & Komunitas Tentukan prioritas pembaruan fitur dan modul berikutnya Intro Lisensi AI Agent Masuk Dukung Komunitas Community Voting Tentukan prioritas fitur dan arsitektur rilis Tiki-Tiki berikutnya. Khusus Supporter Terverifikasi \ud83d\udd10 Hanya Supporter Terverifikasi yang dapat memberikan suara Setiap donasi membantu keberlanjutan proyek dan memberikan 1 suara sah per rilis. Support untuk Buka Hak Suara Belum Ada Polling Aktif Saat ini belum ada sesi voting atau polling yang dibuka. Administrator akan membuka polling arsitektur dan agenda rilis fitur berikutnya dalam waktu dekat. AI Chat",
+        "Tiki-Tiki Fire Hub Community Supporter PLATFORM UTAMA Dashboard 12 AI Agent (Idle Workspace) LIVE Tiki Vault 12 VIP Lisensi & Legal LEGAL Aktivasi Lisensi KOMUNITAS Voting Fitur 0 Beta Lab AKUN & PROFIL Profil Pengguna Cloud Firestore Live Voting & Komunitas Tentukan prioritas pembaruan fitur dan modul berikutnya Intro Lisensi AI Agent Masuk Dukung Komunitas Community Voting Tentukan prioritas fitur dan arsitektur rilis Tiki-Tiki berikutnya. Khusus Supporter Terverifikasi \ud83d\udd10 Hanya Supporter Terverifikasi yang dapat memberikan suara Setiap donasi membantu keberlanjutan proyek dan memberikan 1 suara sah per rilis. Support untuk Buka Hak Suara Belum Ada Polling Aktif Saat ini belum ada sesi voting atau polling yang dibuka. Administrator akan membuka polling arsitektur dan agenda rilis fitur berikutnya dalam waktu dekat. AI Chat",
+        "Tiki-Tiki Fire Hub Community Supporter PLATFORM UTAMA Dashboard 12 AI Agent (Idle Workspace) LIVE Tiki Vault 12 VIP Lisensi & Legal LEGAL Aktivasi Lisensi KOMUNITAS Voting Fitur 0 Beta Lab AKUN & PROFIL Profil Pengguna Cloud Firestore Live Voting & Komunitas Tentukan prioritas pembaruan fitur dan modul berikutnya Intro Lisensi AI Agent Masuk Dukung Komunitas Community Voting Tentukan prioritas fitur dan arsitektur rilis Tiki-Tiki berikutnya. Khusus Supporter Terverifikasi \ud83d\udd10 Hanya Supporter Terverifikasi yang dapat memberikan suara Setiap donasi membantu keberlanjutan proyek dan memberikan 1 suara sah per rilis. Support untuk Buka Hak Suara Belum Ada Polling Aktif Saat ini belum ada sesi voting atau polling yang dibuka. Administrator akan membuka polling arsitektur dan agenda rilis fitur berikutnya dalam waktu dekat. AI Chat",
+        "Tiki-Tiki Fire Hub Community Supporter PLATFORM UTAMA Dashboard 12 AI Agent (Idle Workspace) LIVE Tiki Vault 12 VIP Lisensi & Legal LEGAL Aktivasi Lisensi KOMUNITAS Voting Fitur 0 Beta Lab AKUN & PROFIL Profil Pengguna Cloud Firestore Live Voting & Komunitas Tentukan prioritas pembaruan fitur dan modul berikutnya Intro Lisensi AI Agent Masuk Dukung Komunitas Community Voting Tentukan prioritas fitur dan arsitektur rilis Tiki-Tiki berikutnya. Khusus Supporter Terverifikasi \ud83d\udd10 Hanya Supporter Terverifikasi yang dapat memberikan suara Setiap donasi membantu keberlanjutan proyek dan memberikan 1 suara sah per rilis. Support untuk Buka Hak Suara Belum Ada Polling Aktif Saat ini belum ada sesi voting atau polling yang dibuka. Administrator akan membuka polling arsitektur dan agenda rilis fitur berikutnya dalam waktu dekat.",
+        "Voting & Komunitas Tentukan prioritas pembaruan fitur dan modul berikutnya Intro Lisensi AI Agent Masuk Dukung Komunitas Community Voting Tentukan prioritas fitur dan arsitektur rilis Tiki-Tiki berikutnya. Khusus Supporter Terverifikasi \ud83d\udd10 Hanya Supporter Terverifikasi yang dapat memberikan suara Setiap donasi membantu keberlanjutan proyek dan memberikan 1 suara sah per rilis. Support untuk Buka Hak Suara Belum Ada Polling Aktif Saat ini belum ada sesi voting atau polling yang dibuka. Administrator akan membuka polling arsitektur dan agenda rilis fitur berikutnya dalam waktu dekat.",
+        "Community Voting Tentukan prioritas fitur dan arsitektur rilis Tiki-Tiki berikutnya. Khusus Supporter Terverifikasi \ud83d\udd10 Hanya Supporter Terverifikasi yang dapat memberikan suara Setiap donasi membantu keberlanjutan proyek dan memberikan 1 suara sah per rilis. Support untuk Buka Hak Suara Belum Ada Polling Aktif Saat ini belum ada sesi voting atau polling yang dibuka. Administrator akan membuka polling arsitektur dan agenda rilis fitur berikutnya dalam waktu dekat."
+      ],
+      "numBadges": 4,
+      "disabled": []
+    },
+    "Beta Lab": {
+      "hash": "",
+      "title": "TIKI-TIKI FIRE HUB",
+      "scrollW": 1440,
+      "innerW": 1440,
+      "overflow": false,
+      "textLen": 1519,
+      "excerpt": "Tiki-Tiki Fire Hub Community Supporter PLATFORM UTAMA Dashboard 12 AI Agent (Idle Workspace) LIVE Tiki Vault 12 VIP Lisensi & Legal LEGAL Aktivasi Lisensi KOMUNITAS Voting Fitur 0 Beta Lab AKUN & PROFIL Profil Pengguna Cloud Firestore Live Beta Lab Unduh rilis pra-peluncuran dan paket eksperimental Intro Lisensi AI Agent Masuk Dukung Komunitas Beta Lab Sandbox Akses rilis pra-publikasi eksklusif, dokumentasi eksperim",
+      "smallCount": 21,
+      "small": [
+        {
+          "label": "Dashboard 12",
+          "w": 259,
+          "h": 33
+        },
+        {
+          "label": "AI Agent (Idle Workspace) LI",
+          "w": 259,
+          "h": 34
+        },
+        {
+          "label": "Tiki Vault 12 VIP",
+          "w": 259,
+          "h": 34
+        },
+        {
+          "label": "Lisensi & Legal LEGAL",
+          "w": 259,
+          "h": 34
+        },
+        {
+          "label": "Aktivasi Lisensi",
+          "w": 259,
+          "h": 32
+        },
+        {
+          "label": "Voting Fitur 0",
+          "w": 259,
+          "h": 33
+        },
+        {
+          "label": "Beta Lab",
+          "w": 259,
+          "h": 34
+        },
+        {
+          "label": "Profil Pengguna",
+          "w": 259,
+          "h": 32
+        },
+        {
+          "label": "Cari Prompt & Lisensi",
+          "w": 36,
+          "h": 36
+        },
+        {
+          "label": "Kotak Masuk",
+          "w": 36,
+          "h": 36
+        },
+        {
+          "label": "Intro",
+          "w": 73,
+          "h": 32
+        },
+        {
+          "label": "Lisensi",
+          "w": 86,
+          "h": 32
+        },
+        {
+          "label": "AI Agent",
+          "w": 97,
+          "h": 32
+        },
+        {
+          "label": "Masuk",
+          "w": 85,
+          "h": 32
+        }
+      ],
+      "inputs": [],
+      "focusables": 21,
+      "headings": [
+        "H1:Tiki-Tiki Fire Hub",
+        "H2:Beta Lab",
+        "H1:Beta Lab Sandbox",
+        "H3:\ud83d\udd10 Akses Eksklusif Beta Tester Komunitas",
+        "H3:TIKI-TIKI Fire Core Engine (Dark Glass Editi",
+        "H4:CHANGELOG & PEMBARUAN",
+        "H3:Chili Optimizer & Stream Interceptor",
+        "H4:CHANGELOG & PEMBARUAN",
+        "H3:Interactive Sandbox Test Console"
+      ],
+      "buttons": [
+        "Dashboard 12",
+        "AI Agent (Idle Workspace) LIVE",
+        "Tiki Vault 12 VIP",
+        "Lisensi & Legal LEGAL",
+        "Aktivasi Lisensi",
+        "Voting Fitur 0",
+        "Beta Lab",
+        "Profil Pengguna",
+        "",
+        "",
+        "Intro",
+        "Lisensi",
+        "AI Agent",
+        "Masuk",
+        "Dukung Komunitas",
+        "Support untuk Buka Beta Lab",
+        "Terkunci",
+        "Salin",
+        "Terkunci",
+        "Salin",
+        "AI Chat"
+      ],
+      "emptyStates": [],
+      "numBadges": 15,
+      "disabled": []
+    },
+    "Aktivasi Lisensi": {
+      "hash": "",
+      "title": "TIKI-TIKI FIRE HUB",
+      "scrollW": 1440,
+      "innerW": 1440,
+      "overflow": false,
+      "textLen": 1823,
+      "excerpt": "Tiki-Tiki Fire Hub Community Supporter PLATFORM UTAMA Dashboard 12 AI Agent (Idle Workspace) LIVE Tiki Vault 12 VIP Lisensi & Legal LEGAL Aktivasi Lisensi KOMUNITAS Voting Fitur 0 Beta Lab AKUN & PROFIL Profil Pengguna Cloud Firestore Live Aktivasi Lisensi Klaim lisensi 1-Device-1-Key dengan validasi instan Intro Lisensi AI Agent Masuk Dukung Komunitas TERMINAL AKTIVASI LISENSI RESMI AKTIVASI SUPPORTER ACCESS KEY Mas",
+      "smallCount": 19,
+      "small": [
+        {
+          "label": "Dashboard 12",
+          "w": 259,
+          "h": 33
+        },
+        {
+          "label": "AI Agent (Idle Workspace) LI",
+          "w": 259,
+          "h": 34
+        },
+        {
+          "label": "Tiki Vault 12 VIP",
+          "w": 259,
+          "h": 34
+        },
+        {
+          "label": "Lisensi & Legal LEGAL",
+          "w": 259,
+          "h": 34
+        },
+        {
+          "label": "Aktivasi Lisensi",
+          "w": 259,
+          "h": 34
+        },
+        {
+          "label": "Voting Fitur 0",
+          "w": 259,
+          "h": 33
+        },
+        {
+          "label": "Beta Lab",
+          "w": 259,
+          "h": 32
+        },
+        {
+          "label": "Profil Pengguna",
+          "w": 259,
+          "h": 32
+        },
+        {
+          "label": "Cari Prompt & Lisensi",
+          "w": 36,
+          "h": 36
+        },
+        {
+          "label": "Kotak Masuk",
+          "w": 36,
+          "h": 36
+        },
+        {
+          "label": "Intro",
+          "w": 73,
+          "h": 32
+        },
+        {
+          "label": "Lisensi",
+          "w": 86,
+          "h": 32
+        },
+        {
+          "label": "AI Agent",
+          "w": 97,
+          "h": 32
+        },
+        {
+          "label": "Masuk",
+          "w": 85,
+          "h": 32
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "id": "access-key-input",
+          "placeholder": "Contoh: TTK-A1B2-C3D4-E5F6",
+          "hasLabel": true,
+          "autocomplete": null,
+          "inputmode": null
+        }
+      ],
+      "focusables": 19,
+      "headings": [
+        "H1:Tiki-Tiki Fire Hub",
+        "H2:Aktivasi Lisensi",
+        "H1:AKTIVASI SUPPORTER ACCESS KEY",
+        "H3:HAK AKSES SUPPORTER RESMI",
+        "H4:KEAMANAN LISENSI // ZERO-LEAK"
+      ],
+      "buttons": [
+        "Dashboard 12",
+        "AI Agent (Idle Workspace) LIVE",
+        "Tiki Vault 12 VIP",
+        "Lisensi & Legal LEGAL",
+        "Aktivasi Lisensi",
+        "Voting Fitur 0",
+        "Beta Lab",
+        "Profil Pengguna",
+        "",
+        "",
+        "Intro",
+        "Lisensi",
+        "AI Agent",
+        "Masuk",
+        "Dukung Komunitas",
+        "VALIDASI & AKTIFKAN LISENSI",
+        "Kirim Bukti",
+        "AI Chat"
+      ],
+      "emptyStates": [],
+      "numBadges": 13,
+      "disabled": [
+        "VALIDASI & AKTIFKAN LISE"
+      ]
+    },
+    "Lisensi & Legal": {
+      "hash": "",
+      "title": "TIKI-TIKI FIRE HUB",
+      "scrollW": 1440,
+      "innerW": 1440,
+      "overflow": false,
+      "textLen": 7590,
+      "excerpt": "Tiki-Tiki Fire Hub Community Supporter PLATFORM UTAMA Dashboard 12 AI Agent (Idle Workspace) LIVE Tiki Vault 12 VIP Lisensi & Legal LEGAL Aktivasi Lisensi KOMUNITAS Voting Fitur 0 Beta Lab AKUN & PROFIL Profil Pengguna Cloud Firestore Live Lisensi & Batasan Hukum Dokumen lisensi resmi (MIT, GPL, Apache) dan pelepasan tanggung jawab mutlak pengembang Intro Lisensi AI Agent Masuk Dukung Komunitas Dokumen Resmi Lisensi ",
+      "smallCount": 27,
+      "small": [
+        {
+          "label": "Dashboard 12",
+          "w": 259,
+          "h": 33
+        },
+        {
+          "label": "AI Agent (Idle Workspace) LI",
+          "w": 259,
+          "h": 34
+        },
+        {
+          "label": "Tiki Vault 12 VIP",
+          "w": 259,
+          "h": 34
+        },
+        {
+          "label": "Lisensi & Legal LEGAL",
+          "w": 259,
+          "h": 36
+        },
+        {
+          "label": "Aktivasi Lisensi",
+          "w": 259,
+          "h": 32
+        },
+        {
+          "label": "Voting Fitur 0",
+          "w": 259,
+          "h": 33
+        },
+        {
+          "label": "Beta Lab",
+          "w": 259,
+          "h": 32
+        },
+        {
+          "label": "Profil Pengguna",
+          "w": 259,
+          "h": 32
+        },
+        {
+          "label": "Cari Prompt & Lisensi",
+          "w": 36,
+          "h": 36
+        },
+        {
+          "label": "Kotak Masuk",
+          "w": 36,
+          "h": 36
+        },
+        {
+          "label": "Intro",
+          "w": 73,
+          "h": 32
+        },
+        {
+          "label": "Lisensi",
+          "w": 86,
+          "h": 32
+        },
+        {
+          "label": "AI Agent",
+          "w": 97,
+          "h": 32
+        },
+        {
+          "label": "Masuk",
+          "w": 85,
+          "h": 32
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "id": "",
+          "placeholder": "Cari pertanyaan hukum...",
+          "hasLabel": false,
+          "autocomplete": null,
+          "inputmode": null
+        }
+      ],
+      "focusables": 27,
+      "headings": [
+        "H1:Tiki-Tiki Fire Hub",
+        "H2:Lisensi & Batasan Hukum",
+        "H1:Lisensi & Batasan Hukum v2.5 Legal",
+        "H2:Pelepasan Tanggung Jawab Hukum: Pengguna Mem",
+        "H3:User Memegang Kendali Penuh",
+        "H3:Bebas Liabilitas Pengembang",
+        "H3:Bukan Kami yang Masuk Hukum",
+        "H3:Prinsip \"AS IS\" Tanpa Garansi",
+        "H3:Piagam Batasan Liabilitas & Pertanggungjawab",
+        "H3:Matriks Perbandingan Kerangka Lisensi",
+        "H3:Pertanyaan Umum Mengenai Hukum & Tanggung Ja",
+        "H4:Q: Apakah pengembang bertanggung jawab jika ",
+        "H4:Q: Apakah saya boleh menggunakan prompt dari",
+        "H4:Q: Bagaimana jika prompt menghasilkan kode y",
+        "H4:Q: Apakah lisensi supporter dapat dialihkan ",
+        "H4:Siap Mengakses Koleksi Tiki Prompt Vault?"
+      ],
+      "buttons": [
+        "Dashboard 12",
+        "AI Agent (Idle Workspace) LIVE",
+        "Tiki Vault 12 VIP",
+        "Lisensi & Legal LEGAL",
+        "Aktivasi Lisensi",
+        "Voting Fitur 0",
+        "Beta Lab",
+        "Profil Pengguna",
+        "",
+        "",
+        "Intro",
+        "Lisensi",
+        "AI Agent",
+        "Masuk",
+        "Dukung Komunitas",
+        "Konfirmasi Pemahaman Saya",
+        "Pernyataan Tanggung Jawab PENTING",
+        "MIT License (Resmi) Vault",
+        "GNU GPL v3",
+        "Apache License 2.0",
+        "Ketentuan Supporter (EULA) 1-Key-1-D",
+        "Salin Piagam Hukum",
+        "Unduh Berkas .txt",
+        "Buka Tiki Prompt Vault",
+        "Dukung Komunitas",
+        "AI Chat"
+      ],
+      "emptyStates": [
+        "Tiki-Tiki Fire Hub Community Supporter PLATFORM UTAMA Dashboard 12 AI Agent (Idle Workspace) LIVE Tiki Vault 12 VIP Lisensi & Legal LEGAL Aktivasi Lisensi KOMUNITAS Voting Fitur 0 Beta Lab AKUN & PROFIL Profil Pengguna Cloud Firestore Live Lisensi & Batasan Hukum Dokumen lisensi resmi (MIT, GPL, Apache) dan pelepasan tanggung jawab mutlak pengembang Intro Lisensi AI Agent Masuk Dukung Komunitas Dokumen Resmi Lisensi & Pelepasan Tanggung Jawab Hukum Lisensi & Batasan Hukum v2.5 Legal Materi, skrip, dan prompt pada Tiki-Tiki Fire Hub dirilis di bawah lisensi terbuka standar (MIT, GPL v3, Apache 2.0). Pengguna memegang kendali penuh atas seluruh tindakan pemanfaatan, dan pengembang dibebaskan secara mutlak dari segala liabilitas hukum atas penyalahgunaan atau dampak yang timbul. Status Doktrin Hukum Aktif & Mengikat Prinsip Tanggung Jawab: User Agency Penuh Liabilitas Developer: Bebas 100% (Hold Harmless) Lisensi Prompt Vault: MIT License Konfirmasi Pemahaman Saya KLAUSUL WAJIB BACA Pelepasan Tanggung Jawab Hukum: Pengguna Memegang Kendali Penuh Pengembang, penyedia, dan pengelola Tiki-Tiki Fire Hub TIDAK BERTANGGUNG JAWAB atas tindakan, hasil komputasi, pembuatan konten, kerusakan sistem, kebocoran data, atau konsekuensi hukum apa pun yang diakibatkan oleh penggunaan materi di platform ini. Kendali Penuh di Pundak Anda Setiap perintah ke AI dijalankan atas inisiatif dan otorisasi Anda sendiri. Anda yang menentukan konteks dan penggunaan akhirnya. Bukan Kami yang Masuk Hukum Jika Salah Jika Anda menyalahgunakan prompt untuk melanggar hukum, merugikan pihak ketiga, atau melanggar UU ITE, Anda sendiri yang menghadapi konsekuensi pidana maupun perdata. Pernyataan Tanggung Jawab PENTING MIT License (Resmi) Vault GNU GPL v3 Apache License 2.0 Ketentuan Supporter (EULA) 1-Key-1-Device User Memegang Kendali Penuh Setiap prompt, parameter temperatur, pemilihan model AI, dan perintah yang Anda salin adalah keputusan independen Anda sendiri. Anda adalah eksekutor utama di lingkungan komputasi Anda. Bebas Liabilitas Pengembang Pengembang dan pengelola platform ini dibebaskan seutuhnya dari segala tuntutan hukum, ganti rugi, denda regulasi, atau gugatan perdata/pidana yang disebabkan oleh perbuatan pengguna. Bukan Kami yang Masuk Hukum Jika Anda menggunakan prompt ini untuk menghasilkan konten ilegal, melanggar hak cipta, meretas sistem, atau melanggar UU ITE/hukum setempat, beban pertanggungjawaban hukum 100% ada di pundak Anda. Prinsip \"AS IS\" Tanpa Garansi Semua materi disediakan apa adanya (AS IS) tanpa jaminan kelayakan dagang, akurasi penalaran AI, atau ketiadaan galat. Uji coba dan validasi kode wajib Anda lakukan secara mandiri. Piagam Batasan Liabilitas & Pertanggungjawaban Pidana/Perdata Harap baca dengan seksama pasal-pasal berikut sebelum menggunakan materi apa pun dari repositori ini. Pasal 1 \u2014 Doktrin Kepemilikan Tindakan (Doctrine of User Agency) Platform ini beroperasi semata-mata sebagai pustaka teks, logika instruksi, dan arsitektur penalaran. Platform tidak memiliki agensi otonom, tidak mengeksekusi panggilan API ke sistem eksternal tanpa masukan eksplisit dari pengguna, dan tidak memiliki kendali atas lingkungan komputasi di mana prompt tersebut digunakan. Oleh karenanya, segala keputusan eksekusi berada 100% di tangan pengguna. Pasal 2 \u2014 Pembebasan Total Dari Pelanggaran Hukum Pihak Ketiga (Indemnification) Pengguna dengan ini menyatakan setuju untuk membela, mengganti rugi, dan membebaskan para kontributor, pengembang, pembuat kode, dan administrator platform dari dan terhadap setiap klaim, gugatan, biaya perkara peradilan, tuntutan ganti rugi, denda regulator, atau investigasi penegak hukum yang timbul dari: Pelanggaran Undang-Undang Informasi dan Transaksi Elektronik (UU ITE) atau hukum pidana/perdata di yurisdiksi Anda. Pelanggaran hak cipta, paten, rahasia dagang, atau kekayaan intelektual milik entitas mana pun. Pelanggaran terhadap Kebijakan Penggunaan (Acceptable Use Policy) dari Anthropic, OpenAI, Google, Meta, atau vendor AI lainnya. Penyusupan ke dalam sistem komputer, peretasan tidak sah, atau eksfiltrasi data privat. Pasal 3 \u2014 Ketentuan \"AS IS\" & Ketiadaan Garansi Mutlak SEMUA MATERI, SKRIP, DAN DOKUMEN DISEDIAKAN \"SEBAGAIMANA ADANYA\" TANPA JAMINAN DALAM BENTUK APA PUN, BAIK TERSURAT MAUPUN TERSIRAT. PENGEMBANG TIDAK MENJAMIN BAHWA INSTRUKSI PROMPT AKAN BEBAS DARI KESALAHAN (HALLUCINATIONS), COCOK UNTUK KEBUTUHAN KHUSUS ANDA, ATAU MEMENUHI STANDAR PRODUKSI TANPA VALIDASI MANUSIA. Pasal 4 \u2014 Deklarasi Status Donasi Setiap donasi sukarela yang diberikan oleh supporter adalah kontribusi nirlaba guna membiayai operasional infrastruktur server, lisensi database Firestore, dan eksperimen model bahasa. Donasi bukan merupakan kontrak jual-beli software komersial bergaransi, dan tidak memberikan hak jaminan bebas cacat atas prompt yang diakses. Salin Piagam Hukum Unduh Berkas .txt Terakhir Diperbarui: 10 Oktober 2026 \u00b7 Yurisdiksi Terbuka Matriks Perbandingan Kerangka Lisensi Bagaimana lisensi-lisensi ini melindungi kebebasan berkreasi sekaligus membebaskan pengembang dari tanggung jawab Parameter Lisensi MIT (Vault) GNU GPL v3 Apache 2.0 Tiki Supporter EULA Tanggung Jawab Hukum Pengembang TIDAK ADA (Bebas total) TIDAK ADA (Bebas total) TIDAK ADA (Bebas total) TIDAK ADA (User 100% bertanggung jawab) Kendali Eksekusi di Tangan Pengguna 100% Kendali User 100% Kendali User 100% Kendali User 100% Kendali User Penggunaan Komersial Diizinkan Bebas Diizinkan (Source tetap GPL) Diizinkan Bebas Diizinkan untuk Output Mandiri Modifikasi & Turunan Bebas dimodifikasi Bebas (Wajib Open Source) Bebas dimodifikasi Bebas untuk Kebutuhan Pribadi/Tim Klausul Bebas Garansi (Warranty) Klausul AS-IS eksplisit Bagian 15-16 AS-IS Bagian 7-8 AS-IS Klausul AS-IS + Anti-Liability Pertanyaan Umum Mengenai Hukum & Tanggung Jawab (FAQ) Jawaban ringkas terkait kepatuhan, keabsahan hukum, dan batasan tanggung jawab operasional Q: Apakah pengembang bertanggung jawab jika output dari prompt melanggar hukum? Sama sekali TIDAK. Platform ini hanya menyediakan templat arsitektur instruksi. Keputusan untuk mengeksekusi prompt, input yang Anda masukkan, serta bagaimana output tersebut didistribusikan adalah wewenang dan tanggung jawab hukum mutlak Anda sebagai pengguna. Pengembang dibebaskan secara hukum dari segala dampak tindakan Anda. Q: Apakah saya boleh menggunakan prompt dari Tiki Vault untuk keperluan komersial? Ya, prompt penalaran dan instruksi arsitektur kami dilisensikan bebas di bawah standar MIT License yang memperbolehkan penggunaan komersial. Namun, Anda tetap bertanggung jawab secara mandiri atas kepatuhan terhadap Terms of Service penyedia LLM (seperti Anthropic, OpenAI, atau Google). Q: Bagaimana jika prompt menghasilkan kode yang mengandung celah keamanan atau bug? Semua materi diberikan secara \"AS IS\" tanpa garansi dalam bentuk apa pun. Pengguna wajib melakukan pengujian keamanan, audit sintaks, dan peninjauan mandiri sebelum menerapkan kode ke lingkungan produksi. Kami tidak menanggung kerugian apa pun atas kegagalan sistem. Q: Apakah lisensi supporter dapat dialihkan ke perangkat lain jika perangkat saya rusak? Lisensi supporter terikat secara aman dengan sistem 1-Device-1-Key. Jika Anda mengganti perangkat utama karena perbaikan atau pergantian perangkat keras, silakan hubungi tim administrator melalui panel inbox/tiket dukungan untuk melakukan reset otorisasi secara legal. Siap Mengakses Koleksi Tiki Prompt Vault? Jelajahi ratusan prompt penalaran terverifikasi yang dilisensikan bebas di bawah MIT License. Buka Tiki Prompt Vault Dukung Komunitas AI Chat",
+        "Tiki-Tiki Fire Hub Community Supporter PLATFORM UTAMA Dashboard 12 AI Agent (Idle Workspace) LIVE Tiki Vault 12 VIP Lisensi & Legal LEGAL Aktivasi Lisensi KOMUNITAS Voting Fitur 0 Beta Lab AKUN & PROFIL Profil Pengguna Cloud Firestore Live Lisensi & Batasan Hukum Dokumen lisensi resmi (MIT, GPL, Apache) dan pelepasan tanggung jawab mutlak pengembang Intro Lisensi AI Agent Masuk Dukung Komunitas Dokumen Resmi Lisensi & Pelepasan Tanggung Jawab Hukum Lisensi & Batasan Hukum v2.5 Legal Materi, skrip, dan prompt pada Tiki-Tiki Fire Hub dirilis di bawah lisensi terbuka standar (MIT, GPL v3, Apache 2.0). Pengguna memegang kendali penuh atas seluruh tindakan pemanfaatan, dan pengembang dibebaskan secara mutlak dari segala liabilitas hukum atas penyalahgunaan atau dampak yang timbul. Status Doktrin Hukum Aktif & Mengikat Prinsip Tanggung Jawab: User Agency Penuh Liabilitas Developer: Bebas 100% (Hold Harmless) Lisensi Prompt Vault: MIT License Konfirmasi Pemahaman Saya KLAUSUL WAJIB BACA Pelepasan Tanggung Jawab Hukum: Pengguna Memegang Kendali Penuh Pengembang, penyedia, dan pengelola Tiki-Tiki Fire Hub TIDAK BERTANGGUNG JAWAB atas tindakan, hasil komputasi, pembuatan konten, kerusakan sistem, kebocoran data, atau konsekuensi hukum apa pun yang diakibatkan oleh penggunaan materi di platform ini. Kendali Penuh di Pundak Anda Setiap perintah ke AI dijalankan atas inisiatif dan otorisasi Anda sendiri. Anda yang menentukan konteks dan penggunaan akhirnya. Bukan Kami yang Masuk Hukum Jika Salah Jika Anda menyalahgunakan prompt untuk melanggar hukum, merugikan pihak ketiga, atau melanggar UU ITE, Anda sendiri yang menghadapi konsekuensi pidana maupun perdata. Pernyataan Tanggung Jawab PENTING MIT License (Resmi) Vault GNU GPL v3 Apache License 2.0 Ketentuan Supporter (EULA) 1-Key-1-Device User Memegang Kendali Penuh Setiap prompt, parameter temperatur, pemilihan model AI, dan perintah yang Anda salin adalah keputusan independen Anda sendiri. Anda adalah eksekutor utama di lingkungan komputasi Anda. Bebas Liabilitas Pengembang Pengembang dan pengelola platform ini dibebaskan seutuhnya dari segala tuntutan hukum, ganti rugi, denda regulasi, atau gugatan perdata/pidana yang disebabkan oleh perbuatan pengguna. Bukan Kami yang Masuk Hukum Jika Anda menggunakan prompt ini untuk menghasilkan konten ilegal, melanggar hak cipta, meretas sistem, atau melanggar UU ITE/hukum setempat, beban pertanggungjawaban hukum 100% ada di pundak Anda. Prinsip \"AS IS\" Tanpa Garansi Semua materi disediakan apa adanya (AS IS) tanpa jaminan kelayakan dagang, akurasi penalaran AI, atau ketiadaan galat. Uji coba dan validasi kode wajib Anda lakukan secara mandiri. Piagam Batasan Liabilitas & Pertanggungjawaban Pidana/Perdata Harap baca dengan seksama pasal-pasal berikut sebelum menggunakan materi apa pun dari repositori ini. Pasal 1 \u2014 Doktrin Kepemilikan Tindakan (Doctrine of User Agency) Platform ini beroperasi semata-mata sebagai pustaka teks, logika instruksi, dan arsitektur penalaran. Platform tidak memiliki agensi otonom, tidak mengeksekusi panggilan API ke sistem eksternal tanpa masukan eksplisit dari pengguna, dan tidak memiliki kendali atas lingkungan komputasi di mana prompt tersebut digunakan. Oleh karenanya, segala keputusan eksekusi berada 100% di tangan pengguna. Pasal 2 \u2014 Pembebasan Total Dari Pelanggaran Hukum Pihak Ketiga (Indemnification) Pengguna dengan ini menyatakan setuju untuk membela, mengganti rugi, dan membebaskan para kontributor, pengembang, pembuat kode, dan administrator platform dari dan terhadap setiap klaim, gugatan, biaya perkara peradilan, tuntutan ganti rugi, denda regulator, atau investigasi penegak hukum yang timbul dari: Pelanggaran Undang-Undang Informasi dan Transaksi Elektronik (UU ITE) atau hukum pidana/perdata di yurisdiksi Anda. Pelanggaran hak cipta, paten, rahasia dagang, atau kekayaan intelektual milik entitas mana pun. Pelanggaran terhadap Kebijakan Penggunaan (Acceptable Use Policy) dari Anthropic, OpenAI, Google, Meta, atau vendor AI lainnya. Penyusupan ke dalam sistem komputer, peretasan tidak sah, atau eksfiltrasi data privat. Pasal 3 \u2014 Ketentuan \"AS IS\" & Ketiadaan Garansi Mutlak SEMUA MATERI, SKRIP, DAN DOKUMEN DISEDIAKAN \"SEBAGAIMANA ADANYA\" TANPA JAMINAN DALAM BENTUK APA PUN, BAIK TERSURAT MAUPUN TERSIRAT. PENGEMBANG TIDAK MENJAMIN BAHWA INSTRUKSI PROMPT AKAN BEBAS DARI KESALAHAN (HALLUCINATIONS), COCOK UNTUK KEBUTUHAN KHUSUS ANDA, ATAU MEMENUHI STANDAR PRODUKSI TANPA VALIDASI MANUSIA. Pasal 4 \u2014 Deklarasi Status Donasi Setiap donasi sukarela yang diberikan oleh supporter adalah kontribusi nirlaba guna membiayai operasional infrastruktur server, lisensi database Firestore, dan eksperimen model bahasa. Donasi bukan merupakan kontrak jual-beli software komersial bergaransi, dan tidak memberikan hak jaminan bebas cacat atas prompt yang diakses. Salin Piagam Hukum Unduh Berkas .txt Terakhir Diperbarui: 10 Oktober 2026 \u00b7 Yurisdiksi Terbuka Matriks Perbandingan Kerangka Lisensi Bagaimana lisensi-lisensi ini melindungi kebebasan berkreasi sekaligus membebaskan pengembang dari tanggung jawab Parameter Lisensi MIT (Vault) GNU GPL v3 Apache 2.0 Tiki Supporter EULA Tanggung Jawab Hukum Pengembang TIDAK ADA (Bebas total) TIDAK ADA (Bebas total) TIDAK ADA (Bebas total) TIDAK ADA (User 100% bertanggung jawab) Kendali Eksekusi di Tangan Pengguna 100% Kendali User 100% Kendali User 100% Kendali User 100% Kendali User Penggunaan Komersial Diizinkan Bebas Diizinkan (Source tetap GPL) Diizinkan Bebas Diizinkan untuk Output Mandiri Modifikasi & Turunan Bebas dimodifikasi Bebas (Wajib Open Source) Bebas dimodifikasi Bebas untuk Kebutuhan Pribadi/Tim Klausul Bebas Garansi (Warranty) Klausul AS-IS eksplisit Bagian 15-16 AS-IS Bagian 7-8 AS-IS Klausul AS-IS + Anti-Liability Pertanyaan Umum Mengenai Hukum & Tanggung Jawab (FAQ) Jawaban ringkas terkait kepatuhan, keabsahan hukum, dan batasan tanggung jawab operasional Q: Apakah pengembang bertanggung jawab jika output dari prompt melanggar hukum? Sama sekali TIDAK. Platform ini hanya menyediakan templat arsitektur instruksi. Keputusan untuk mengeksekusi prompt, input yang Anda masukkan, serta bagaimana output tersebut didistribusikan adalah wewenang dan tanggung jawab hukum mutlak Anda sebagai pengguna. Pengembang dibebaskan secara hukum dari segala dampak tindakan Anda. Q: Apakah saya boleh menggunakan prompt dari Tiki Vault untuk keperluan komersial? Ya, prompt penalaran dan instruksi arsitektur kami dilisensikan bebas di bawah standar MIT License yang memperbolehkan penggunaan komersial. Namun, Anda tetap bertanggung jawab secara mandiri atas kepatuhan terhadap Terms of Service penyedia LLM (seperti Anthropic, OpenAI, atau Google). Q: Bagaimana jika prompt menghasilkan kode yang mengandung celah keamanan atau bug? Semua materi diberikan secara \"AS IS\" tanpa garansi dalam bentuk apa pun. Pengguna wajib melakukan pengujian keamanan, audit sintaks, dan peninjauan mandiri sebelum menerapkan kode ke lingkungan produksi. Kami tidak menanggung kerugian apa pun atas kegagalan sistem. Q: Apakah lisensi supporter dapat dialihkan ke perangkat lain jika perangkat saya rusak? Lisensi supporter terikat secara aman dengan sistem 1-Device-1-Key. Jika Anda mengganti perangkat utama karena perbaikan atau pergantian perangkat keras, silakan hubungi tim administrator melalui panel inbox/tiket dukungan untuk melakukan reset otorisasi secara legal. Siap Mengakses Koleksi Tiki Prompt Vault? Jelajahi ratusan prompt penalaran terverifikasi yang dilisensikan bebas di bawah MIT License. Buka Tiki Prompt Vault Dukung Komunitas AI Chat",
+        "Tiki-Tiki Fire Hub Community Supporter PLATFORM UTAMA Dashboard 12 AI Agent (Idle Workspace) LIVE Tiki Vault 12 VIP Lisensi & Legal LEGAL Aktivasi Lisensi KOMUNITAS Voting Fitur 0 Beta Lab AKUN & PROFIL Profil Pengguna Cloud Firestore Live Lisensi & Batasan Hukum Dokumen lisensi resmi (MIT, GPL, Apache) dan pelepasan tanggung jawab mutlak pengembang Intro Lisensi AI Agent Masuk Dukung Komunitas Dokumen Resmi Lisensi & Pelepasan Tanggung Jawab Hukum Lisensi & Batasan Hukum v2.5 Legal Materi, skrip, dan prompt pada Tiki-Tiki Fire Hub dirilis di bawah lisensi terbuka standar (MIT, GPL v3, Apache 2.0). Pengguna memegang kendali penuh atas seluruh tindakan pemanfaatan, dan pengembang dibebaskan secara mutlak dari segala liabilitas hukum atas penyalahgunaan atau dampak yang timbul. Status Doktrin Hukum Aktif & Mengikat Prinsip Tanggung Jawab: User Agency Penuh Liabilitas Developer: Bebas 100% (Hold Harmless) Lisensi Prompt Vault: MIT License Konfirmasi Pemahaman Saya KLAUSUL WAJIB BACA Pelepasan Tanggung Jawab Hukum: Pengguna Memegang Kendali Penuh Pengembang, penyedia, dan pengelola Tiki-Tiki Fire Hub TIDAK BERTANGGUNG JAWAB atas tindakan, hasil komputasi, pembuatan konten, kerusakan sistem, kebocoran data, atau konsekuensi hukum apa pun yang diakibatkan oleh penggunaan materi di platform ini. Kendali Penuh di Pundak Anda Setiap perintah ke AI dijalankan atas inisiatif dan otorisasi Anda sendiri. Anda yang menentukan konteks dan penggunaan akhirnya. Bukan Kami yang Masuk Hukum Jika Salah Jika Anda menyalahgunakan prompt untuk melanggar hukum, merugikan pihak ketiga, atau melanggar UU ITE, Anda sendiri yang menghadapi konsekuensi pidana maupun perdata. Pernyataan Tanggung Jawab PENTING MIT License (Resmi) Vault GNU GPL v3 Apache License 2.0 Ketentuan Supporter (EULA) 1-Key-1-Device User Memegang Kendali Penuh Setiap prompt, parameter temperatur, pemilihan model AI, dan perintah yang Anda salin adalah keputusan independen Anda sendiri. Anda adalah eksekutor utama di lingkungan komputasi Anda. Bebas Liabilitas Pengembang Pengembang dan pengelola platform ini dibebaskan seutuhnya dari segala tuntutan hukum, ganti rugi, denda regulasi, atau gugatan perdata/pidana yang disebabkan oleh perbuatan pengguna. Bukan Kami yang Masuk Hukum Jika Anda menggunakan prompt ini untuk menghasilkan konten ilegal, melanggar hak cipta, meretas sistem, atau melanggar UU ITE/hukum setempat, beban pertanggungjawaban hukum 100% ada di pundak Anda. Prinsip \"AS IS\" Tanpa Garansi Semua materi disediakan apa adanya (AS IS) tanpa jaminan kelayakan dagang, akurasi penalaran AI, atau ketiadaan galat. Uji coba dan validasi kode wajib Anda lakukan secara mandiri. Piagam Batasan Liabilitas & Pertanggungjawaban Pidana/Perdata Harap baca dengan seksama pasal-pasal berikut sebelum menggunakan materi apa pun dari repositori ini. Pasal 1 \u2014 Doktrin Kepemilikan Tindakan (Doctrine of User Agency) Platform ini beroperasi semata-mata sebagai pustaka teks, logika instruksi, dan arsitektur penalaran. Platform tidak memiliki agensi otonom, tidak mengeksekusi panggilan API ke sistem eksternal tanpa masukan eksplisit dari pengguna, dan tidak memiliki kendali atas lingkungan komputasi di mana prompt tersebut digunakan. Oleh karenanya, segala keputusan eksekusi berada 100% di tangan pengguna. Pasal 2 \u2014 Pembebasan Total Dari Pelanggaran Hukum Pihak Ketiga (Indemnification) Pengguna dengan ini menyatakan setuju untuk membela, mengganti rugi, dan membebaskan para kontributor, pengembang, pembuat kode, dan administrator platform dari dan terhadap setiap klaim, gugatan, biaya perkara peradilan, tuntutan ganti rugi, denda regulator, atau investigasi penegak hukum yang timbul dari: Pelanggaran Undang-Undang Informasi dan Transaksi Elektronik (UU ITE) atau hukum pidana/perdata di yurisdiksi Anda. Pelanggaran hak cipta, paten, rahasia dagang, atau kekayaan intelektual milik entitas mana pun. Pelanggaran terhadap Kebijakan Penggunaan (Acceptable Use Policy) dari Anthropic, OpenAI, Google, Meta, atau vendor AI lainnya. Penyusupan ke dalam sistem komputer, peretasan tidak sah, atau eksfiltrasi data privat. Pasal 3 \u2014 Ketentuan \"AS IS\" & Ketiadaan Garansi Mutlak SEMUA MATERI, SKRIP, DAN DOKUMEN DISEDIAKAN \"SEBAGAIMANA ADANYA\" TANPA JAMINAN DALAM BENTUK APA PUN, BAIK TERSURAT MAUPUN TERSIRAT. PENGEMBANG TIDAK MENJAMIN BAHWA INSTRUKSI PROMPT AKAN BEBAS DARI KESALAHAN (HALLUCINATIONS), COCOK UNTUK KEBUTUHAN KHUSUS ANDA, ATAU MEMENUHI STANDAR PRODUKSI TANPA VALIDASI MANUSIA. Pasal 4 \u2014 Deklarasi Status Donasi Setiap donasi sukarela yang diberikan oleh supporter adalah kontribusi nirlaba guna membiayai operasional infrastruktur server, lisensi database Firestore, dan eksperimen model bahasa. Donasi bukan merupakan kontrak jual-beli software komersial bergaransi, dan tidak memberikan hak jaminan bebas cacat atas prompt yang diakses. Salin Piagam Hukum Unduh Berkas .txt Terakhir Diperbarui: 10 Oktober 2026 \u00b7 Yurisdiksi Terbuka Matriks Perbandingan Kerangka Lisensi Bagaimana lisensi-lisensi ini melindungi kebebasan berkreasi sekaligus membebaskan pengembang dari tanggung jawab Parameter Lisensi MIT (Vault) GNU GPL v3 Apache 2.0 Tiki Supporter EULA Tanggung Jawab Hukum Pengembang TIDAK ADA (Bebas total) TIDAK ADA (Bebas total) TIDAK ADA (Bebas total) TIDAK ADA (User 100% bertanggung jawab) Kendali Eksekusi di Tangan Pengguna 100% Kendali User 100% Kendali User 100% Kendali User 100% Kendali User Penggunaan Komersial Diizinkan Bebas Diizinkan (Source tetap GPL) Diizinkan Bebas Diizinkan untuk Output Mandiri Modifikasi & Turunan Bebas dimodifikasi Bebas (Wajib Open Source) Bebas dimodifikasi Bebas untuk Kebutuhan Pribadi/Tim Klausul Bebas Garansi (Warranty) Klausul AS-IS eksplisit Bagian 15-16 AS-IS Bagian 7-8 AS-IS Klausul AS-IS + Anti-Liability Pertanyaan Umum Mengenai Hukum & Tanggung Jawab (FAQ) Jawaban ringkas terkait kepatuhan, keabsahan hukum, dan batasan tanggung jawab operasional Q: Apakah pengembang bertanggung jawab jika output dari prompt melanggar hukum? Sama sekali TIDAK. Platform ini hanya menyediakan templat arsitektur instruksi. Keputusan untuk mengeksekusi prompt, input yang Anda masukkan, serta bagaimana output tersebut didistribusikan adalah wewenang dan tanggung jawab hukum mutlak Anda sebagai pengguna. Pengembang dibebaskan secara hukum dari segala dampak tindakan Anda. Q: Apakah saya boleh menggunakan prompt dari Tiki Vault untuk keperluan komersial? Ya, prompt penalaran dan instruksi arsitektur kami dilisensikan bebas di bawah standar MIT License yang memperbolehkan penggunaan komersial. Namun, Anda tetap bertanggung jawab secara mandiri atas kepatuhan terhadap Terms of Service penyedia LLM (seperti Anthropic, OpenAI, atau Google). Q: Bagaimana jika prompt menghasilkan kode yang mengandung celah keamanan atau bug? Semua materi diberikan secara \"AS IS\" tanpa garansi dalam bentuk apa pun. Pengguna wajib melakukan pengujian keamanan, audit sintaks, dan peninjauan mandiri sebelum menerapkan kode ke lingkungan produksi. Kami tidak menanggung kerugian apa pun atas kegagalan sistem. Q: Apakah lisensi supporter dapat dialihkan ke perangkat lain jika perangkat saya rusak? Lisensi supporter terikat secara aman dengan sistem 1-Device-1-Key. Jika Anda mengganti perangkat utama karena perbaikan atau pergantian perangkat keras, silakan hubungi tim administrator melalui panel inbox/tiket dukungan untuk melakukan reset otorisasi secara legal. Siap Mengakses Koleksi Tiki Prompt Vault? Jelajahi ratusan prompt penalaran terverifikasi yang dilisensikan bebas di bawah MIT License. Buka Tiki Prompt Vault Dukung Komunitas AI Chat",
+        "Tiki-Tiki Fire Hub Community Supporter PLATFORM UTAMA Dashboard 12 AI Agent (Idle Workspace) LIVE Tiki Vault 12 VIP Lisensi & Legal LEGAL Aktivasi Lisensi KOMUNITAS Voting Fitur 0 Beta Lab AKUN & PROFIL Profil Pengguna Cloud Firestore Live Lisensi & Batasan Hukum Dokumen lisensi resmi (MIT, GPL, Apache) dan pelepasan tanggung jawab mutlak pengembang Intro Lisensi AI Agent Masuk Dukung Komunitas Dokumen Resmi Lisensi & Pelepasan Tanggung Jawab Hukum Lisensi & Batasan Hukum v2.5 Legal Materi, skrip, dan prompt pada Tiki-Tiki Fire Hub dirilis di bawah lisensi terbuka standar (MIT, GPL v3, Apache 2.0). Pengguna memegang kendali penuh atas seluruh tindakan pemanfaatan, dan pengembang dibebaskan secara mutlak dari segala liabilitas hukum atas penyalahgunaan atau dampak yang timbul. Status Doktrin Hukum Aktif & Mengikat Prinsip Tanggung Jawab: User Agency Penuh Liabilitas Developer: Bebas 100% (Hold Harmless) Lisensi Prompt Vault: MIT License Konfirmasi Pemahaman Saya KLAUSUL WAJIB BACA Pelepasan Tanggung Jawab Hukum: Pengguna Memegang Kendali Penuh Pengembang, penyedia, dan pengelola Tiki-Tiki Fire Hub TIDAK BERTANGGUNG JAWAB atas tindakan, hasil komputasi, pembuatan konten, kerusakan sistem, kebocoran data, atau konsekuensi hukum apa pun yang diakibatkan oleh penggunaan materi di platform ini. Kendali Penuh di Pundak Anda Setiap perintah ke AI dijalankan atas inisiatif dan otorisasi Anda sendiri. Anda yang menentukan konteks dan penggunaan akhirnya. Bukan Kami yang Masuk Hukum Jika Salah Jika Anda menyalahgunakan prompt untuk melanggar hukum, merugikan pihak ketiga, atau melanggar UU ITE, Anda sendiri yang menghadapi konsekuensi pidana maupun perdata. Pernyataan Tanggung Jawab PENTING MIT License (Resmi) Vault GNU GPL v3 Apache License 2.0 Ketentuan Supporter (EULA) 1-Key-1-Device User Memegang Kendali Penuh Setiap prompt, parameter temperatur, pemilihan model AI, dan perintah yang Anda salin adalah keputusan independen Anda sendiri. Anda adalah eksekutor utama di lingkungan komputasi Anda. Bebas Liabilitas Pengembang Pengembang dan pengelola platform ini dibebaskan seutuhnya dari segala tuntutan hukum, ganti rugi, denda regulasi, atau gugatan perdata/pidana yang disebabkan oleh perbuatan pengguna. Bukan Kami yang Masuk Hukum Jika Anda menggunakan prompt ini untuk menghasilkan konten ilegal, melanggar hak cipta, meretas sistem, atau melanggar UU ITE/hukum setempat, beban pertanggungjawaban hukum 100% ada di pundak Anda. Prinsip \"AS IS\" Tanpa Garansi Semua materi disediakan apa adanya (AS IS) tanpa jaminan kelayakan dagang, akurasi penalaran AI, atau ketiadaan galat. Uji coba dan validasi kode wajib Anda lakukan secara mandiri. Piagam Batasan Liabilitas & Pertanggungjawaban Pidana/Perdata Harap baca dengan seksama pasal-pasal berikut sebelum menggunakan materi apa pun dari repositori ini. Pasal 1 \u2014 Doktrin Kepemilikan Tindakan (Doctrine of User Agency) Platform ini beroperasi semata-mata sebagai pustaka teks, logika instruksi, dan arsitektur penalaran. Platform tidak memiliki agensi otonom, tidak mengeksekusi panggilan API ke sistem eksternal tanpa masukan eksplisit dari pengguna, dan tidak memiliki kendali atas lingkungan komputasi di mana prompt tersebut digunakan. Oleh karenanya, segala keputusan eksekusi berada 100% di tangan pengguna. Pasal 2 \u2014 Pembebasan Total Dari Pelanggaran Hukum Pihak Ketiga (Indemnification) Pengguna dengan ini menyatakan setuju untuk membela, mengganti rugi, dan membebaskan para kontributor, pengembang, pembuat kode, dan administrator platform dari dan terhadap setiap klaim, gugatan, biaya perkara peradilan, tuntutan ganti rugi, denda regulator, atau investigasi penegak hukum yang timbul dari: Pelanggaran Undang-Undang Informasi dan Transaksi Elektronik (UU ITE) atau hukum pidana/perdata di yurisdiksi Anda. Pelanggaran hak cipta, paten, rahasia dagang, atau kekayaan intelektual milik entitas mana pun. Pelanggaran terhadap Kebijakan Penggunaan (Acceptable Use Policy) dari Anthropic, OpenAI, Google, Meta, atau vendor AI lainnya. Penyusupan ke dalam sistem komputer, peretasan tidak sah, atau eksfiltrasi data privat. Pasal 3 \u2014 Ketentuan \"AS IS\" & Ketiadaan Garansi Mutlak SEMUA MATERI, SKRIP, DAN DOKUMEN DISEDIAKAN \"SEBAGAIMANA ADANYA\" TANPA JAMINAN DALAM BENTUK APA PUN, BAIK TERSURAT MAUPUN TERSIRAT. PENGEMBANG TIDAK MENJAMIN BAHWA INSTRUKSI PROMPT AKAN BEBAS DARI KESALAHAN (HALLUCINATIONS), COCOK UNTUK KEBUTUHAN KHUSUS ANDA, ATAU MEMENUHI STANDAR PRODUKSI TANPA VALIDASI MANUSIA. Pasal 4 \u2014 Deklarasi Status Donasi Setiap donasi sukarela yang diberikan oleh supporter adalah kontribusi nirlaba guna membiayai operasional infrastruktur server, lisensi database Firestore, dan eksperimen model bahasa. Donasi bukan merupakan kontrak jual-beli software komersial bergaransi, dan tidak memberikan hak jaminan bebas cacat atas prompt yang diakses. Salin Piagam Hukum Unduh Berkas .txt Terakhir Diperbarui: 10 Oktober 2026 \u00b7 Yurisdiksi Terbuka Matriks Perbandingan Kerangka Lisensi Bagaimana lisensi-lisensi ini melindungi kebebasan berkreasi sekaligus membebaskan pengembang dari tanggung jawab Parameter Lisensi MIT (Vault) GNU GPL v3 Apache 2.0 Tiki Supporter EULA Tanggung Jawab Hukum Pengembang TIDAK ADA (Bebas total) TIDAK ADA (Bebas total) TIDAK ADA (Bebas total) TIDAK ADA (User 100% bertanggung jawab) Kendali Eksekusi di Tangan Pengguna 100% Kendali User 100% Kendali User 100% Kendali User 100% Kendali User Penggunaan Komersial Diizinkan Bebas Diizinkan (Source tetap GPL) Diizinkan Bebas Diizinkan untuk Output Mandiri Modifikasi & Turunan Bebas dimodifikasi Bebas (Wajib Open Source) Bebas dimodifikasi Bebas untuk Kebutuhan Pribadi/Tim Klausul Bebas Garansi (Warranty) Klausul AS-IS eksplisit Bagian 15-16 AS-IS Bagian 7-8 AS-IS Klausul AS-IS + Anti-Liability Pertanyaan Umum Mengenai Hukum & Tanggung Jawab (FAQ) Jawaban ringkas terkait kepatuhan, keabsahan hukum, dan batasan tanggung jawab operasional Q: Apakah pengembang bertanggung jawab jika output dari prompt melanggar hukum? Sama sekali TIDAK. Platform ini hanya menyediakan templat arsitektur instruksi. Keputusan untuk mengeksekusi prompt, input yang Anda masukkan, serta bagaimana output tersebut didistribusikan adalah wewenang dan tanggung jawab hukum mutlak Anda sebagai pengguna. Pengembang dibebaskan secara hukum dari segala dampak tindakan Anda. Q: Apakah saya boleh menggunakan prompt dari Tiki Vault untuk keperluan komersial? Ya, prompt penalaran dan instruksi arsitektur kami dilisensikan bebas di bawah standar MIT License yang memperbolehkan penggunaan komersial. Namun, Anda tetap bertanggung jawab secara mandiri atas kepatuhan terhadap Terms of Service penyedia LLM (seperti Anthropic, OpenAI, atau Google). Q: Bagaimana jika prompt menghasilkan kode yang mengandung celah keamanan atau bug? Semua materi diberikan secara \"AS IS\" tanpa garansi dalam bentuk apa pun. Pengguna wajib melakukan pengujian keamanan, audit sintaks, dan peninjauan mandiri sebelum menerapkan kode ke lingkungan produksi. Kami tidak menanggung kerugian apa pun atas kegagalan sistem. Q: Apakah lisensi supporter dapat dialihkan ke perangkat lain jika perangkat saya rusak? Lisensi supporter terikat secara aman dengan sistem 1-Device-1-Key. Jika Anda mengganti perangkat utama karena perbaikan atau pergantian perangkat keras, silakan hubungi tim administrator melalui panel inbox/tiket dukungan untuk melakukan reset otorisasi secara legal. Siap Mengakses Koleksi Tiki Prompt Vault? Jelajahi ratusan prompt penalaran terverifikasi yang dilisensikan bebas di bawah MIT License. Buka Tiki Prompt Vault Dukung Komunitas",
+        "Lisensi & Batasan Hukum Dokumen lisensi resmi (MIT, GPL, Apache) dan pelepasan tanggung jawab mutlak pengembang Intro Lisensi AI Agent Masuk Dukung Komunitas Dokumen Resmi Lisensi & Pelepasan Tanggung Jawab Hukum Lisensi & Batasan Hukum v2.5 Legal Materi, skrip, dan prompt pada Tiki-Tiki Fire Hub dirilis di bawah lisensi terbuka standar (MIT, GPL v3, Apache 2.0). Pengguna memegang kendali penuh atas seluruh tindakan pemanfaatan, dan pengembang dibebaskan secara mutlak dari segala liabilitas hukum atas penyalahgunaan atau dampak yang timbul. Status Doktrin Hukum Aktif & Mengikat Prinsip Tanggung Jawab: User Agency Penuh Liabilitas Developer: Bebas 100% (Hold Harmless) Lisensi Prompt Vault: MIT License Konfirmasi Pemahaman Saya KLAUSUL WAJIB BACA Pelepasan Tanggung Jawab Hukum: Pengguna Memegang Kendali Penuh Pengembang, penyedia, dan pengelola Tiki-Tiki Fire Hub TIDAK BERTANGGUNG JAWAB atas tindakan, hasil komputasi, pembuatan konten, kerusakan sistem, kebocoran data, atau konsekuensi hukum apa pun yang diakibatkan oleh penggunaan materi di platform ini. Kendali Penuh di Pundak Anda Setiap perintah ke AI dijalankan atas inisiatif dan otorisasi Anda sendiri. Anda yang menentukan konteks dan penggunaan akhirnya. Bukan Kami yang Masuk Hukum Jika Salah Jika Anda menyalahgunakan prompt untuk melanggar hukum, merugikan pihak ketiga, atau melanggar UU ITE, Anda sendiri yang menghadapi konsekuensi pidana maupun perdata. Pernyataan Tanggung Jawab PENTING MIT License (Resmi) Vault GNU GPL v3 Apache License 2.0 Ketentuan Supporter (EULA) 1-Key-1-Device User Memegang Kendali Penuh Setiap prompt, parameter temperatur, pemilihan model AI, dan perintah yang Anda salin adalah keputusan independen Anda sendiri. Anda adalah eksekutor utama di lingkungan komputasi Anda. Bebas Liabilitas Pengembang Pengembang dan pengelola platform ini dibebaskan seutuhnya dari segala tuntutan hukum, ganti rugi, denda regulasi, atau gugatan perdata/pidana yang disebabkan oleh perbuatan pengguna. Bukan Kami yang Masuk Hukum Jika Anda menggunakan prompt ini untuk menghasilkan konten ilegal, melanggar hak cipta, meretas sistem, atau melanggar UU ITE/hukum setempat, beban pertanggungjawaban hukum 100% ada di pundak Anda. Prinsip \"AS IS\" Tanpa Garansi Semua materi disediakan apa adanya (AS IS) tanpa jaminan kelayakan dagang, akurasi penalaran AI, atau ketiadaan galat. Uji coba dan validasi kode wajib Anda lakukan secara mandiri. Piagam Batasan Liabilitas & Pertanggungjawaban Pidana/Perdata Harap baca dengan seksama pasal-pasal berikut sebelum menggunakan materi apa pun dari repositori ini. Pasal 1 \u2014 Doktrin Kepemilikan Tindakan (Doctrine of User Agency) Platform ini beroperasi semata-mata sebagai pustaka teks, logika instruksi, dan arsitektur penalaran. Platform tidak memiliki agensi otonom, tidak mengeksekusi panggilan API ke sistem eksternal tanpa masukan eksplisit dari pengguna, dan tidak memiliki kendali atas lingkungan komputasi di mana prompt tersebut digunakan. Oleh karenanya, segala keputusan eksekusi berada 100% di tangan pengguna. Pasal 2 \u2014 Pembebasan Total Dari Pelanggaran Hukum Pihak Ketiga (Indemnification) Pengguna dengan ini menyatakan setuju untuk membela, mengganti rugi, dan membebaskan para kontributor, pengembang, pembuat kode, dan administrator platform dari dan terhadap setiap klaim, gugatan, biaya perkara peradilan, tuntutan ganti rugi, denda regulator, atau investigasi penegak hukum yang timbul dari: Pelanggaran Undang-Undang Informasi dan Transaksi Elektronik (UU ITE) atau hukum pidana/perdata di yurisdiksi Anda. Pelanggaran hak cipta, paten, rahasia dagang, atau kekayaan intelektual milik entitas mana pun. Pelanggaran terhadap Kebijakan Penggunaan (Acceptable Use Policy) dari Anthropic, OpenAI, Google, Meta, atau vendor AI lainnya. Penyusupan ke dalam sistem komputer, peretasan tidak sah, atau eksfiltrasi data privat. Pasal 3 \u2014 Ketentuan \"AS IS\" & Ketiadaan Garansi Mutlak SEMUA MATERI, SKRIP, DAN DOKUMEN DISEDIAKAN \"SEBAGAIMANA ADANYA\" TANPA JAMINAN DALAM BENTUK APA PUN, BAIK TERSURAT MAUPUN TERSIRAT. PENGEMBANG TIDAK MENJAMIN BAHWA INSTRUKSI PROMPT AKAN BEBAS DARI KESALAHAN (HALLUCINATIONS), COCOK UNTUK KEBUTUHAN KHUSUS ANDA, ATAU MEMENUHI STANDAR PRODUKSI TANPA VALIDASI MANUSIA. Pasal 4 \u2014 Deklarasi Status Donasi Setiap donasi sukarela yang diberikan oleh supporter adalah kontribusi nirlaba guna membiayai operasional infrastruktur server, lisensi database Firestore, dan eksperimen model bahasa. Donasi bukan merupakan kontrak jual-beli software komersial bergaransi, dan tidak memberikan hak jaminan bebas cacat atas prompt yang diakses. Salin Piagam Hukum Unduh Berkas .txt Terakhir Diperbarui: 10 Oktober 2026 \u00b7 Yurisdiksi Terbuka Matriks Perbandingan Kerangka Lisensi Bagaimana lisensi-lisensi ini melindungi kebebasan berkreasi sekaligus membebaskan pengembang dari tanggung jawab Parameter Lisensi MIT (Vault) GNU GPL v3 Apache 2.0 Tiki Supporter EULA Tanggung Jawab Hukum Pengembang TIDAK ADA (Bebas total) TIDAK ADA (Bebas total) TIDAK ADA (Bebas total) TIDAK ADA (User 100% bertanggung jawab) Kendali Eksekusi di Tangan Pengguna 100% Kendali User 100% Kendali User 100% Kendali User 100% Kendali User Penggunaan Komersial Diizinkan Bebas Diizinkan (Source tetap GPL) Diizinkan Bebas Diizinkan untuk Output Mandiri Modifikasi & Turunan Bebas dimodifikasi Bebas (Wajib Open Source) Bebas dimodifikasi Bebas untuk Kebutuhan Pribadi/Tim Klausul Bebas Garansi (Warranty) Klausul AS-IS eksplisit Bagian 15-16 AS-IS Bagian 7-8 AS-IS Klausul AS-IS + Anti-Liability Pertanyaan Umum Mengenai Hukum & Tanggung Jawab (FAQ) Jawaban ringkas terkait kepatuhan, keabsahan hukum, dan batasan tanggung jawab operasional Q: Apakah pengembang bertanggung jawab jika output dari prompt melanggar hukum? Sama sekali TIDAK. Platform ini hanya menyediakan templat arsitektur instruksi. Keputusan untuk mengeksekusi prompt, input yang Anda masukkan, serta bagaimana output tersebut didistribusikan adalah wewenang dan tanggung jawab hukum mutlak Anda sebagai pengguna. Pengembang dibebaskan secara hukum dari segala dampak tindakan Anda. Q: Apakah saya boleh menggunakan prompt dari Tiki Vault untuk keperluan komersial? Ya, prompt penalaran dan instruksi arsitektur kami dilisensikan bebas di bawah standar MIT License yang memperbolehkan penggunaan komersial. Namun, Anda tetap bertanggung jawab secara mandiri atas kepatuhan terhadap Terms of Service penyedia LLM (seperti Anthropic, OpenAI, atau Google). Q: Bagaimana jika prompt menghasilkan kode yang mengandung celah keamanan atau bug? Semua materi diberikan secara \"AS IS\" tanpa garansi dalam bentuk apa pun. Pengguna wajib melakukan pengujian keamanan, audit sintaks, dan peninjauan mandiri sebelum menerapkan kode ke lingkungan produksi. Kami tidak menanggung kerugian apa pun atas kegagalan sistem. Q: Apakah lisensi supporter dapat dialihkan ke perangkat lain jika perangkat saya rusak? Lisensi supporter terikat secara aman dengan sistem 1-Device-1-Key. Jika Anda mengganti perangkat utama karena perbaikan atau pergantian perangkat keras, silakan hubungi tim administrator melalui panel inbox/tiket dukungan untuk melakukan reset otorisasi secara legal. Siap Mengakses Koleksi Tiki Prompt Vault? Jelajahi ratusan prompt penalaran terverifikasi yang dilisensikan bebas di bawah MIT License. Buka Tiki Prompt Vault Dukung Komunitas",
+        "Dokumen Resmi Lisensi & Pelepasan Tanggung Jawab Hukum Lisensi & Batasan Hukum v2.5 Legal Materi, skrip, dan prompt pada Tiki-Tiki Fire Hub dirilis di bawah lisensi terbuka standar (MIT, GPL v3, Apache 2.0). Pengguna memegang kendali penuh atas seluruh tindakan pemanfaatan, dan pengembang dibebaskan secara mutlak dari segala liabilitas hukum atas penyalahgunaan atau dampak yang timbul. Status Doktrin Hukum Aktif & Mengikat Prinsip Tanggung Jawab: User Agency Penuh Liabilitas Developer: Bebas 100% (Hold Harmless) Lisensi Prompt Vault: MIT License Konfirmasi Pemahaman Saya KLAUSUL WAJIB BACA Pelepasan Tanggung Jawab Hukum: Pengguna Memegang Kendali Penuh Pengembang, penyedia, dan pengelola Tiki-Tiki Fire Hub TIDAK BERTANGGUNG JAWAB atas tindakan, hasil komputasi, pembuatan konten, kerusakan sistem, kebocoran data, atau konsekuensi hukum apa pun yang diakibatkan oleh penggunaan materi di platform ini. Kendali Penuh di Pundak Anda Setiap perintah ke AI dijalankan atas inisiatif dan otorisasi Anda sendiri. Anda yang menentukan konteks dan penggunaan akhirnya. Bukan Kami yang Masuk Hukum Jika Salah Jika Anda menyalahgunakan prompt untuk melanggar hukum, merugikan pihak ketiga, atau melanggar UU ITE, Anda sendiri yang menghadapi konsekuensi pidana maupun perdata. Pernyataan Tanggung Jawab PENTING MIT License (Resmi) Vault GNU GPL v3 Apache License 2.0 Ketentuan Supporter (EULA) 1-Key-1-Device User Memegang Kendali Penuh Setiap prompt, parameter temperatur, pemilihan model AI, dan perintah yang Anda salin adalah keputusan independen Anda sendiri. Anda adalah eksekutor utama di lingkungan komputasi Anda. Bebas Liabilitas Pengembang Pengembang dan pengelola platform ini dibebaskan seutuhnya dari segala tuntutan hukum, ganti rugi, denda regulasi, atau gugatan perdata/pidana yang disebabkan oleh perbuatan pengguna. Bukan Kami yang Masuk Hukum Jika Anda menggunakan prompt ini untuk menghasilkan konten ilegal, melanggar hak cipta, meretas sistem, atau melanggar UU ITE/hukum setempat, beban pertanggungjawaban hukum 100% ada di pundak Anda. Prinsip \"AS IS\" Tanpa Garansi Semua materi disediakan apa adanya (AS IS) tanpa jaminan kelayakan dagang, akurasi penalaran AI, atau ketiadaan galat. Uji coba dan validasi kode wajib Anda lakukan secara mandiri. Piagam Batasan Liabilitas & Pertanggungjawaban Pidana/Perdata Harap baca dengan seksama pasal-pasal berikut sebelum menggunakan materi apa pun dari repositori ini. Pasal 1 \u2014 Doktrin Kepemilikan Tindakan (Doctrine of User Agency) Platform ini beroperasi semata-mata sebagai pustaka teks, logika instruksi, dan arsitektur penalaran. Platform tidak memiliki agensi otonom, tidak mengeksekusi panggilan API ke sistem eksternal tanpa masukan eksplisit dari pengguna, dan tidak memiliki kendali atas lingkungan komputasi di mana prompt tersebut digunakan. Oleh karenanya, segala keputusan eksekusi berada 100% di tangan pengguna. Pasal 2 \u2014 Pembebasan Total Dari Pelanggaran Hukum Pihak Ketiga (Indemnification) Pengguna dengan ini menyatakan setuju untuk membela, mengganti rugi, dan membebaskan para kontributor, pengembang, pembuat kode, dan administrator platform dari dan terhadap setiap klaim, gugatan, biaya perkara peradilan, tuntutan ganti rugi, denda regulator, atau investigasi penegak hukum yang timbul dari: Pelanggaran Undang-Undang Informasi dan Transaksi Elektronik (UU ITE) atau hukum pidana/perdata di yurisdiksi Anda. Pelanggaran hak cipta, paten, rahasia dagang, atau kekayaan intelektual milik entitas mana pun. Pelanggaran terhadap Kebijakan Penggunaan (Acceptable Use Policy) dari Anthropic, OpenAI, Google, Meta, atau vendor AI lainnya. Penyusupan ke dalam sistem komputer, peretasan tidak sah, atau eksfiltrasi data privat. Pasal 3 \u2014 Ketentuan \"AS IS\" & Ketiadaan Garansi Mutlak SEMUA MATERI, SKRIP, DAN DOKUMEN DISEDIAKAN \"SEBAGAIMANA ADANYA\" TANPA JAMINAN DALAM BENTUK APA PUN, BAIK TERSURAT MAUPUN TERSIRAT. PENGEMBANG TIDAK MENJAMIN BAHWA INSTRUKSI PROMPT AKAN BEBAS DARI KESALAHAN (HALLUCINATIONS), COCOK UNTUK KEBUTUHAN KHUSUS ANDA, ATAU MEMENUHI STANDAR PRODUKSI TANPA VALIDASI MANUSIA. Pasal 4 \u2014 Deklarasi Status Donasi Setiap donasi sukarela yang diberikan oleh supporter adalah kontribusi nirlaba guna membiayai operasional infrastruktur server, lisensi database Firestore, dan eksperimen model bahasa. Donasi bukan merupakan kontrak jual-beli software komersial bergaransi, dan tidak memberikan hak jaminan bebas cacat atas prompt yang diakses. Salin Piagam Hukum Unduh Berkas .txt Terakhir Diperbarui: 10 Oktober 2026 \u00b7 Yurisdiksi Terbuka Matriks Perbandingan Kerangka Lisensi Bagaimana lisensi-lisensi ini melindungi kebebasan berkreasi sekaligus membebaskan pengembang dari tanggung jawab Parameter Lisensi MIT (Vault) GNU GPL v3 Apache 2.0 Tiki Supporter EULA Tanggung Jawab Hukum Pengembang TIDAK ADA (Bebas total) TIDAK ADA (Bebas total) TIDAK ADA (Bebas total) TIDAK ADA (User 100% bertanggung jawab) Kendali Eksekusi di Tangan Pengguna 100% Kendali User 100% Kendali User 100% Kendali User 100% Kendali User Penggunaan Komersial Diizinkan Bebas Diizinkan (Source tetap GPL) Diizinkan Bebas Diizinkan untuk Output Mandiri Modifikasi & Turunan Bebas dimodifikasi Bebas (Wajib Open Source) Bebas dimodifikasi Bebas untuk Kebutuhan Pribadi/Tim Klausul Bebas Garansi (Warranty) Klausul AS-IS eksplisit Bagian 15-16 AS-IS Bagian 7-8 AS-IS Klausul AS-IS + Anti-Liability Pertanyaan Umum Mengenai Hukum & Tanggung Jawab (FAQ) Jawaban ringkas terkait kepatuhan, keabsahan hukum, dan batasan tanggung jawab operasional Q: Apakah pengembang bertanggung jawab jika output dari prompt melanggar hukum? Sama sekali TIDAK. Platform ini hanya menyediakan templat arsitektur instruksi. Keputusan untuk mengeksekusi prompt, input yang Anda masukkan, serta bagaimana output tersebut didistribusikan adalah wewenang dan tanggung jawab hukum mutlak Anda sebagai pengguna. Pengembang dibebaskan secara hukum dari segala dampak tindakan Anda. Q: Apakah saya boleh menggunakan prompt dari Tiki Vault untuk keperluan komersial? Ya, prompt penalaran dan instruksi arsitektur kami dilisensikan bebas di bawah standar MIT License yang memperbolehkan penggunaan komersial. Namun, Anda tetap bertanggung jawab secara mandiri atas kepatuhan terhadap Terms of Service penyedia LLM (seperti Anthropic, OpenAI, atau Google). Q: Bagaimana jika prompt menghasilkan kode yang mengandung celah keamanan atau bug? Semua materi diberikan secara \"AS IS\" tanpa garansi dalam bentuk apa pun. Pengguna wajib melakukan pengujian keamanan, audit sintaks, dan peninjauan mandiri sebelum menerapkan kode ke lingkungan produksi. Kami tidak menanggung kerugian apa pun atas kegagalan sistem. Q: Apakah lisensi supporter dapat dialihkan ke perangkat lain jika perangkat saya rusak? Lisensi supporter terikat secara aman dengan sistem 1-Device-1-Key. Jika Anda mengganti perangkat utama karena perbaikan atau pergantian perangkat keras, silakan hubungi tim administrator melalui panel inbox/tiket dukungan untuk melakukan reset otorisasi secara legal. Siap Mengakses Koleksi Tiki Prompt Vault? Jelajahi ratusan prompt penalaran terverifikasi yang dilisensikan bebas di bawah MIT License. Buka Tiki Prompt Vault Dukung Komunitas"
+      ],
+      "numBadges": 32,
+      "disabled": []
+    }
+  },
+  "mobile": {
+    "landing": {
+      "hash": "",
+      "title": "TIKI-TIKI FIRE HUB",
+      "scrollW": 390,
+      "innerW": 390,
+      "overflow": false,
+      "textLen": 1509,
+      "excerpt": "Tiki-Tiki Fire Hub Community Supporter PLATFORM UTAMA Dashboard 12 AI Agent (Idle Workspace) LIVE Tiki Vault 12 VIP Lisensi & Legal LEGAL Aktivasi Lisensi KOMUNITAS Voting Fitur 0 Beta Lab AKUN & PROFIL Profil Pengguna Cloud Firestore Live Dashboard AI Agent Masuk Ringkasan AI Agent Riwayat Donasi 0 Tiki Vault 12 Lisensi & Legal Urutkan: Terbaru Dukung Komunitas Selamat Datang di Tiki-Tiki Fire Hub Pusat Lisensi Supp",
+      "smallCount": 31,
+      "small": [
+        {
+          "label": "submit",
+          "w": 28,
+          "h": 28
+        },
+        {
+          "label": "Dashboard 12",
+          "w": 259,
+          "h": 35
+        },
+        {
+          "label": "AI Agent (Idle Workspace) LI",
+          "w": 259,
+          "h": 34
+        },
+        {
+          "label": "Tiki Vault 12 VIP",
+          "w": 259,
+          "h": 34
+        },
+        {
+          "label": "Lisensi & Legal LEGAL",
+          "w": 259,
+          "h": 34
+        },
+        {
+          "label": "Aktivasi Lisensi",
+          "w": 259,
+          "h": 32
+        },
+        {
+          "label": "Voting Fitur 0",
+          "w": 259,
+          "h": 33
+        },
+        {
+          "label": "Beta Lab",
+          "w": 259,
+          "h": 32
+        },
+        {
+          "label": "Profil Pengguna",
+          "w": 259,
+          "h": 32
+        },
+        {
+          "label": "Buka Navigasi",
+          "w": 32,
+          "h": 32
+        },
+        {
+          "label": "Cari Prompt & Lisensi",
+          "w": 32,
+          "h": 32
+        },
+        {
+          "label": "Kotak Masuk",
+          "w": 32,
+          "h": 32
+        },
+        {
+          "label": "submit",
+          "w": 32,
+          "h": 32
+        },
+        {
+          "label": "AI Agent",
+          "w": 89,
+          "h": 32
+        }
+      ],
+      "inputs": [],
+      "focusables": 31,
+      "headings": [
+        "H1:Tiki-Tiki Fire Hub",
+        "H2:Dashboard",
+        "H2:Pusat Lisensi Supporter & Koleksi Prompt Eks",
+        "H3:Koleksi Terpopuler Tiki Prompt Vault",
+        "H4:OpenCode Test Verification",
+        "H4:tikiBigAgent",
+        "H4:tiki elder agents",
+        "H4:Haiku 99.99"
+      ],
+      "buttons": [
+        "",
+        "Dashboard 12",
+        "AI Agent (Idle Workspace) LIVE",
+        "Tiki Vault 12 VIP",
+        "Lisensi & Legal LEGAL",
+        "Aktivasi Lisensi",
+        "Voting Fitur 0",
+        "Beta Lab",
+        "Profil Pengguna",
+        "",
+        "",
+        "",
+        "",
+        "AI Agent",
+        "Masuk",
+        "Ringkasan",
+        "AI Agent",
+        "Riwayat Donasi 0",
+        "Tiki Vault 12",
+        "Lisensi & Legal",
+        "Urutkan: Terbaru",
+        "Dukung Komunitas",
+        "Buka AI Chat",
+        "Masuk / Akun",
+        "Dukung Komunitas",
+        "Buka Semua Prompt",
+        "Buka di Tiki Vault",
+        "Buka di Tiki Vault",
+        "Buka di Tiki Vault",
+        "Buka di Tiki Vault"
+      ],
+      "emptyStates": [],
+      "numBadges": 20,
+      "disabled": []
+    },
+    "Tiki Vault": {
+      "hash": "",
+      "title": "TIKI-TIKI FIRE HUB",
+      "scrollW": 390,
+      "innerW": 390,
+      "overflow": false,
+      "textLen": 6634,
+      "excerpt": "Tiki-Tiki Fire Hub Community Supporter PLATFORM UTAMA Dashboard 12 AI Agent (Idle Workspace) LIVE Tiki Vault 12 VIP Lisensi & Legal LEGAL Aktivasi Lisensi KOMUNITAS Voting Fitur 0 Beta Lab AKUN & PROFIL Profil Pengguna Cloud Firestore Live Tiki Prompt Vault AI Agent Masuk Dukung Komunitas Tiki Prompt Vault Koleksi Supporter Eksklusif Pembersihan Karakter Otomatis Tiki Prompt Vault 12 Prompt Terdaftar Lisensi & Discla",
+      "smallCount": 31,
+      "small": [
+        {
+          "label": "submit",
+          "w": 28,
+          "h": 28
+        },
+        {
+          "label": "Dashboard 12",
+          "w": 259,
+          "h": 33
+        },
+        {
+          "label": "AI Agent (Idle Workspace) LI",
+          "w": 259,
+          "h": 34
+        },
+        {
+          "label": "Tiki Vault 12 VIP",
+          "w": 259,
+          "h": 36
+        },
+        {
+          "label": "Lisensi & Legal LEGAL",
+          "w": 259,
+          "h": 34
+        },
+        {
+          "label": "Aktivasi Lisensi",
+          "w": 259,
+          "h": 32
+        },
+        {
+          "label": "Voting Fitur 0",
+          "w": 259,
+          "h": 33
+        },
+        {
+          "label": "Beta Lab",
+          "w": 259,
+          "h": 32
+        },
+        {
+          "label": "Profil Pengguna",
+          "w": 259,
+          "h": 32
+        },
+        {
+          "label": "Buka Navigasi",
+          "w": 32,
+          "h": 32
+        },
+        {
+          "label": "Cari Prompt & Lisensi",
+          "w": 32,
+          "h": 32
+        },
+        {
+          "label": "Kotak Masuk",
+          "w": 32,
+          "h": 32
+        },
+        {
+          "label": "submit",
+          "w": 32,
+          "h": 32
+        },
+        {
+          "label": "AI Agent",
+          "w": 89,
+          "h": 32
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "id": "",
+          "placeholder": "Cari prompt berdasarkan nama, model, kategori, atau tag...",
+          "hasLabel": false,
+          "autocomplete": null,
+          "inputmode": null
+        },
+        {
+          "type": "select-one",
+          "name": "",
+          "id": "",
+          "hasLabel": false,
+          "autocomplete": null,
+          "inputmode": null
+        },
+        {
+          "type": "select-one",
+          "name": "",
+          "id": "",
+          "hasLabel": false,
+          "autocomplete": null,
+          "inputmode": null
+        }
+      ],
+      "focusables": 68,
+      "headings": [
+        "H1:Tiki-Tiki Fire Hub",
+        "H2:Tiki Prompt Vault",
+        "H1:Tiki Prompt Vault 12 Prompt Terdaftar",
+        "H3:OpenCode Test Verification",
+        "H3:tikiBigAgent",
+        "H3:tiki elder agents",
+        "H3:Haiku 99.99",
+        "H3:Deepseek simple 100%",
+        "H3:Grok dark",
+        "H3:Simple deepseek",
+        "H3:Eni wine F1",
+        "H3:tiki perplexity",
+        "H3:cluster deepseek instructions",
+        "H3:TIKI SPICY'S \u2014 Penulis Adegan Kriminal & Pem",
+        "H3:TIKI FLY \u2014 Dual Engine Forensic Reconstructi",
+        "H4:Pembersih Teks & Pemeriksa Integritas Tokeni"
+      ],
+      "buttons": [
+        "",
+        "Dashboard 12",
+        "AI Agent (Idle Workspace) LIVE",
+        "Tiki Vault 12 VIP",
+        "Lisensi & Legal LEGAL",
+        "Aktivasi Lisensi",
+        "Voting Fitur 0",
+        "Beta Lab",
+        "Profil Pengguna",
+        "",
+        "",
+        "",
+        "",
+        "AI Agent",
+        "Masuk",
+        "Dukung Komunitas",
+        "Lisensi & Disclaimer",
+        "Dapatkan / Beli Membership",
+        "Punya Kunci? Redeem Lisensi",
+        "Versi Beta",
+        "Semua",
+        "Perplexity",
+        "Claude 3.7 / 3.5",
+        "Sonnet 5",
+        "DeepSeek R1",
+        "OpenAI GPT-4o",
+        "Gemini 2.5",
+        "Buka Akses Membership",
+        "Redeem Key",
+        "Buka Akses (Membership)"
+      ],
+      "emptyStates": [],
+      "numBadges": 80,
+      "disabled": []
+    },
+    "Voting Fitur": {
+      "hash": "",
+      "title": "TIKI-TIKI FIRE HUB",
+      "scrollW": 390,
+      "innerW": 390,
+      "overflow": false,
+      "textLen": 766,
+      "excerpt": "Tiki-Tiki Fire Hub Community Supporter PLATFORM UTAMA Dashboard 12 AI Agent (Idle Workspace) LIVE Tiki Vault 12 VIP Lisensi & Legal LEGAL Aktivasi Lisensi KOMUNITAS Voting Fitur 0 Beta Lab AKUN & PROFIL Profil Pengguna Cloud Firestore Live Voting & Komunitas AI Agent Masuk Dukung Komunitas Community Voting Tentukan prioritas fitur dan arsitektur rilis Tiki-Tiki berikutnya. Khusus Supporter Terverifikasi \ud83d\udd10 Hanya Supp",
+      "smallCount": 18,
+      "small": [
+        {
+          "label": "submit",
+          "w": 28,
+          "h": 28
+        },
+        {
+          "label": "Dashboard 12",
+          "w": 259,
+          "h": 33
+        },
+        {
+          "label": "AI Agent (Idle Workspace) LI",
+          "w": 259,
+          "h": 34
+        },
+        {
+          "label": "Tiki Vault 12 VIP",
+          "w": 259,
+          "h": 34
+        },
+        {
+          "label": "Lisensi & Legal LEGAL",
+          "w": 259,
+          "h": 34
+        },
+        {
+          "label": "Aktivasi Lisensi",
+          "w": 259,
+          "h": 32
+        },
+        {
+          "label": "Voting Fitur 0",
+          "w": 259,
+          "h": 35
+        },
+        {
+          "label": "Beta Lab",
+          "w": 259,
+          "h": 32
+        },
+        {
+          "label": "Profil Pengguna",
+          "w": 259,
+          "h": 32
+        },
+        {
+          "label": "Buka Navigasi",
+          "w": 32,
+          "h": 32
+        },
+        {
+          "label": "Cari Prompt & Lisensi",
+          "w": 32,
+          "h": 32
+        },
+        {
+          "label": "Kotak Masuk",
+          "w": 32,
+          "h": 32
+        },
+        {
+          "label": "submit",
+          "w": 32,
+          "h": 32
+        },
+        {
+          "label": "AI Agent",
+          "w": 89,
+          "h": 32
+        }
+      ],
+      "inputs": [],
+      "focusables": 18,
+      "headings": [
+        "H1:Tiki-Tiki Fire Hub",
+        "H2:Voting & Komunitas",
+        "H1:Community Voting",
+        "H3:\ud83d\udd10 Hanya Supporter Terverifikasi yang dapat ",
+        "H3:Belum Ada Polling Aktif"
+      ],
+      "buttons": [
+        "",
+        "Dashboard 12",
+        "AI Agent (Idle Workspace) LIVE",
+        "Tiki Vault 12 VIP",
+        "Lisensi & Legal LEGAL",
+        "Aktivasi Lisensi",
+        "Voting Fitur 0",
+        "Beta Lab",
+        "Profil Pengguna",
+        "",
+        "",
+        "",
+        "",
+        "AI Agent",
+        "Masuk",
+        "Dukung Komunitas",
+        "Support untuk Buka Hak Suara",
+        "AI Chat"
+      ],
+      "emptyStates": [
+        "Tiki-Tiki Fire Hub Community Supporter PLATFORM UTAMA Dashboard 12 AI Agent (Idle Workspace) LIVE Tiki Vault 12 VIP Lisensi & Legal LEGAL Aktivasi Lisensi KOMUNITAS Voting Fitur 0 Beta Lab AKUN & PROFIL Profil Pengguna Cloud Firestore Live Voting & Komunitas AI Agent Masuk Dukung Komunitas Community Voting Tentukan prioritas fitur dan arsitektur rilis Tiki-Tiki berikutnya. Khusus Supporter Terverifikasi \ud83d\udd10 Hanya Supporter Terverifikasi yang dapat memberikan suara Setiap donasi membantu keberlanjutan proyek dan memberikan 1 suara sah per rilis. Support untuk Buka Hak Suara Belum Ada Polling Aktif Saat ini belum ada sesi voting atau polling yang dibuka. Administrator akan membuka polling arsitektur dan agenda rilis fitur berikutnya dalam waktu dekat. AI Chat",
+        "Tiki-Tiki Fire Hub Community Supporter PLATFORM UTAMA Dashboard 12 AI Agent (Idle Workspace) LIVE Tiki Vault 12 VIP Lisensi & Legal LEGAL Aktivasi Lisensi KOMUNITAS Voting Fitur 0 Beta Lab AKUN & PROFIL Profil Pengguna Cloud Firestore Live Voting & Komunitas AI Agent Masuk Dukung Komunitas Community Voting Tentukan prioritas fitur dan arsitektur rilis Tiki-Tiki berikutnya. Khusus Supporter Terverifikasi \ud83d\udd10 Hanya Supporter Terverifikasi yang dapat memberikan suara Setiap donasi membantu keberlanjutan proyek dan memberikan 1 suara sah per rilis. Support untuk Buka Hak Suara Belum Ada Polling Aktif Saat ini belum ada sesi voting atau polling yang dibuka. Administrator akan membuka polling arsitektur dan agenda rilis fitur berikutnya dalam waktu dekat. AI Chat",
+        "Tiki-Tiki Fire Hub Community Supporter PLATFORM UTAMA Dashboard 12 AI Agent (Idle Workspace) LIVE Tiki Vault 12 VIP Lisensi & Legal LEGAL Aktivasi Lisensi KOMUNITAS Voting Fitur 0 Beta Lab AKUN & PROFIL Profil Pengguna Cloud Firestore Live Voting & Komunitas AI Agent Masuk Dukung Komunitas Community Voting Tentukan prioritas fitur dan arsitektur rilis Tiki-Tiki berikutnya. Khusus Supporter Terverifikasi \ud83d\udd10 Hanya Supporter Terverifikasi yang dapat memberikan suara Setiap donasi membantu keberlanjutan proyek dan memberikan 1 suara sah per rilis. Support untuk Buka Hak Suara Belum Ada Polling Aktif Saat ini belum ada sesi voting atau polling yang dibuka. Administrator akan membuka polling arsitektur dan agenda rilis fitur berikutnya dalam waktu dekat. AI Chat",
+        "Tiki-Tiki Fire Hub Community Supporter PLATFORM UTAMA Dashboard 12 AI Agent (Idle Workspace) LIVE Tiki Vault 12 VIP Lisensi & Legal LEGAL Aktivasi Lisensi KOMUNITAS Voting Fitur 0 Beta Lab AKUN & PROFIL Profil Pengguna Cloud Firestore Live Voting & Komunitas AI Agent Masuk Dukung Komunitas Community Voting Tentukan prioritas fitur dan arsitektur rilis Tiki-Tiki berikutnya. Khusus Supporter Terverifikasi \ud83d\udd10 Hanya Supporter Terverifikasi yang dapat memberikan suara Setiap donasi membantu keberlanjutan proyek dan memberikan 1 suara sah per rilis. Support untuk Buka Hak Suara Belum Ada Polling Aktif Saat ini belum ada sesi voting atau polling yang dibuka. Administrator akan membuka polling arsitektur dan agenda rilis fitur berikutnya dalam waktu dekat.",
+        "Voting & Komunitas AI Agent Masuk Dukung Komunitas Community Voting Tentukan prioritas fitur dan arsitektur rilis Tiki-Tiki berikutnya. Khusus Supporter Terverifikasi \ud83d\udd10 Hanya Supporter Terverifikasi yang dapat memberikan suara Setiap donasi membantu keberlanjutan proyek dan memberikan 1 suara sah per rilis. Support untuk Buka Hak Suara Belum Ada Polling Aktif Saat ini belum ada sesi voting atau polling yang dibuka. Administrator akan membuka polling arsitektur dan agenda rilis fitur berikutnya dalam waktu dekat.",
+        "Community Voting Tentukan prioritas fitur dan arsitektur rilis Tiki-Tiki berikutnya. Khusus Supporter Terverifikasi \ud83d\udd10 Hanya Supporter Terverifikasi yang dapat memberikan suara Setiap donasi membantu keberlanjutan proyek dan memberikan 1 suara sah per rilis. Support untuk Buka Hak Suara Belum Ada Polling Aktif Saat ini belum ada sesi voting atau polling yang dibuka. Administrator akan membuka polling arsitektur dan agenda rilis fitur berikutnya dalam waktu dekat."
+      ],
+      "numBadges": 4,
+      "disabled": []
+    },
+    "Beta Lab": {
+      "hash": "",
+      "title": "TIKI-TIKI FIRE HUB",
+      "scrollW": 390,
+      "innerW": 390,
+      "overflow": false,
+      "textLen": 1454,
+      "excerpt": "Tiki-Tiki Fire Hub Community Supporter PLATFORM UTAMA Dashboard 12 AI Agent (Idle Workspace) LIVE Tiki Vault 12 VIP Lisensi & Legal LEGAL Aktivasi Lisensi KOMUNITAS Voting Fitur 0 Beta Lab AKUN & PROFIL Profil Pengguna Cloud Firestore Live Beta Lab AI Agent Masuk Dukung Komunitas Beta Lab Sandbox Akses rilis pra-publikasi eksklusif, dokumentasi eksperimental, dan checksum build. LOCKED \u2022 SUPPORTER ONLY \ud83d\udd10 Akses Ekskl",
+      "smallCount": 22,
+      "small": [
+        {
+          "label": "submit",
+          "w": 28,
+          "h": 28
+        },
+        {
+          "label": "Dashboard 12",
+          "w": 259,
+          "h": 33
+        },
+        {
+          "label": "AI Agent (Idle Workspace) LI",
+          "w": 259,
+          "h": 34
+        },
+        {
+          "label": "Tiki Vault 12 VIP",
+          "w": 259,
+          "h": 34
+        },
+        {
+          "label": "Lisensi & Legal LEGAL",
+          "w": 259,
+          "h": 34
+        },
+        {
+          "label": "Aktivasi Lisensi",
+          "w": 259,
+          "h": 32
+        },
+        {
+          "label": "Voting Fitur 0",
+          "w": 259,
+          "h": 33
+        },
+        {
+          "label": "Beta Lab",
+          "w": 259,
+          "h": 34
+        },
+        {
+          "label": "Profil Pengguna",
+          "w": 259,
+          "h": 32
+        },
+        {
+          "label": "Buka Navigasi",
+          "w": 32,
+          "h": 32
+        },
+        {
+          "label": "Cari Prompt & Lisensi",
+          "w": 32,
+          "h": 32
+        },
+        {
+          "label": "Kotak Masuk",
+          "w": 32,
+          "h": 32
+        },
+        {
+          "label": "submit",
+          "w": 32,
+          "h": 32
+        },
+        {
+          "label": "AI Agent",
+          "w": 89,
+          "h": 32
+        }
+      ],
+      "inputs": [],
+      "focusables": 22,
+      "headings": [
+        "H1:Tiki-Tiki Fire Hub",
+        "H2:Beta Lab",
+        "H1:Beta Lab Sandbox",
+        "H3:\ud83d\udd10 Akses Eksklusif Beta Tester Komunitas",
+        "H3:TIKI-TIKI Fire Core Engine (Dark Glass Editi",
+        "H4:CHANGELOG & PEMBARUAN",
+        "H3:Chili Optimizer & Stream Interceptor",
+        "H4:CHANGELOG & PEMBARUAN",
+        "H3:Interactive Sandbox Test Console"
+      ],
+      "buttons": [
+        "",
+        "Dashboard 12",
+        "AI Agent (Idle Workspace) LIVE",
+        "Tiki Vault 12 VIP",
+        "Lisensi & Legal LEGAL",
+        "Aktivasi Lisensi",
+        "Voting Fitur 0",
+        "Beta Lab",
+        "Profil Pengguna",
+        "",
+        "",
+        "",
+        "",
+        "AI Agent",
+        "Masuk",
+        "Dukung Komunitas",
+        "Support untuk Buka Beta Lab",
+        "Terkunci",
+        "Salin",
+        "Terkunci",
+        "Salin",
+        "AI Chat"
+      ],
+      "emptyStates": [],
+      "numBadges": 15,
+      "disabled": []
+    },
+    "Aktivasi Lisensi": {
+      "hash": "",
+      "title": "TIKI-TIKI FIRE HUB",
+      "scrollW": 390,
+      "innerW": 390,
+      "overflow": false,
+      "textLen": 1757,
+      "excerpt": "Tiki-Tiki Fire Hub Community Supporter PLATFORM UTAMA Dashboard 12 AI Agent (Idle Workspace) LIVE Tiki Vault 12 VIP Lisensi & Legal LEGAL Aktivasi Lisensi KOMUNITAS Voting Fitur 0 Beta Lab AKUN & PROFIL Profil Pengguna Cloud Firestore Live Aktivasi Lisensi AI Agent Masuk Dukung Komunitas TERMINAL AKTIVASI LISENSI RESMI AKTIVASI SUPPORTER ACCESS KEY Masukkan kunci lisensi kriptografis (format: TTK-XXXX-XXXX-XXXX) yang",
+      "smallCount": 20,
+      "small": [
+        {
+          "label": "submit",
+          "w": 28,
+          "h": 28
+        },
+        {
+          "label": "Dashboard 12",
+          "w": 259,
+          "h": 33
+        },
+        {
+          "label": "AI Agent (Idle Workspace) LI",
+          "w": 259,
+          "h": 34
+        },
+        {
+          "label": "Tiki Vault 12 VIP",
+          "w": 259,
+          "h": 34
+        },
+        {
+          "label": "Lisensi & Legal LEGAL",
+          "w": 259,
+          "h": 34
+        },
+        {
+          "label": "Aktivasi Lisensi",
+          "w": 259,
+          "h": 34
+        },
+        {
+          "label": "Voting Fitur 0",
+          "w": 259,
+          "h": 33
+        },
+        {
+          "label": "Beta Lab",
+          "w": 259,
+          "h": 32
+        },
+        {
+          "label": "Profil Pengguna",
+          "w": 259,
+          "h": 32
+        },
+        {
+          "label": "Buka Navigasi",
+          "w": 32,
+          "h": 32
+        },
+        {
+          "label": "Cari Prompt & Lisensi",
+          "w": 32,
+          "h": 32
+        },
+        {
+          "label": "Kotak Masuk",
+          "w": 32,
+          "h": 32
+        },
+        {
+          "label": "submit",
+          "w": 32,
+          "h": 32
+        },
+        {
+          "label": "AI Agent",
+          "w": 89,
+          "h": 32
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "id": "access-key-input",
+          "placeholder": "Contoh: TTK-A1B2-C3D4-E5F6",
+          "hasLabel": true,
+          "autocomplete": null,
+          "inputmode": null
+        }
+      ],
+      "focusables": 20,
+      "headings": [
+        "H1:Tiki-Tiki Fire Hub",
+        "H2:Aktivasi Lisensi",
+        "H1:AKTIVASI SUPPORTER ACCESS KEY",
+        "H3:HAK AKSES SUPPORTER RESMI",
+        "H4:KEAMANAN LISENSI // ZERO-LEAK"
+      ],
+      "buttons": [
+        "",
+        "Dashboard 12",
+        "AI Agent (Idle Workspace) LIVE",
+        "Tiki Vault 12 VIP",
+        "Lisensi & Legal LEGAL",
+        "Aktivasi Lisensi",
+        "Voting Fitur 0",
+        "Beta Lab",
+        "Profil Pengguna",
+        "",
+        "",
+        "",
+        "",
+        "AI Agent",
+        "Masuk",
+        "Dukung Komunitas",
+        "VALIDASI & AKTIFKAN LISENSI",
+        "Kirim Bukti",
+        "AI Chat"
+      ],
+      "emptyStates": [],
+      "numBadges": 11,
+      "disabled": [
+        "VALIDASI & AKTIFKAN LISE"
+      ]
+    },
+    "Lisensi & Legal": {
+      "hash": "",
+      "title": "TIKI-TIKI FIRE HUB",
+      "scrollW": 390,
+      "innerW": 390,
+      "overflow": false,
+      "textLen": 7488,
+      "excerpt": "Tiki-Tiki Fire Hub Community Supporter PLATFORM UTAMA Dashboard 12 AI Agent (Idle Workspace) LIVE Tiki Vault 12 VIP Lisensi & Legal LEGAL Aktivasi Lisensi KOMUNITAS Voting Fitur 0 Beta Lab AKUN & PROFIL Profil Pengguna Cloud Firestore Live Lisensi & Batasan Hukum AI Agent Masuk Dukung Komunitas Dokumen Resmi Lisensi & Pelepasan Tanggung Jawab Hukum Lisensi & Batasan Hukum v2.5 Legal Materi, skrip, dan prompt pada Tik",
+      "smallCount": 24,
+      "small": [
+        {
+          "label": "submit",
+          "w": 28,
+          "h": 28
+        },
+        {
+          "label": "Dashboard 12",
+          "w": 259,
+          "h": 33
+        },
+        {
+          "label": "AI Agent (Idle Workspace) LI",
+          "w": 259,
+          "h": 34
+        },
+        {
+          "label": "Tiki Vault 12 VIP",
+          "w": 259,
+          "h": 34
+        },
+        {
+          "label": "Lisensi & Legal LEGAL",
+          "w": 259,
+          "h": 36
+        },
+        {
+          "label": "Aktivasi Lisensi",
+          "w": 259,
+          "h": 32
+        },
+        {
+          "label": "Voting Fitur 0",
+          "w": 259,
+          "h": 33
+        },
+        {
+          "label": "Beta Lab",
+          "w": 259,
+          "h": 32
+        },
+        {
+          "label": "Profil Pengguna",
+          "w": 259,
+          "h": 32
+        },
+        {
+          "label": "Buka Navigasi",
+          "w": 32,
+          "h": 32
+        },
+        {
+          "label": "Cari Prompt & Lisensi",
+          "w": 32,
+          "h": 32
+        },
+        {
+          "label": "Kotak Masuk",
+          "w": 32,
+          "h": 32
+        },
+        {
+          "label": "submit",
+          "w": 32,
+          "h": 32
+        },
+        {
+          "label": "AI Agent",
+          "w": 89,
+          "h": 32
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "name": "",
+          "id": "",
+          "placeholder": "Cari pertanyaan hukum...",
+          "hasLabel": false,
+          "autocomplete": null,
+          "inputmode": null
+        }
+      ],
+      "focusables": 28,
+      "headings": [
+        "H1:Tiki-Tiki Fire Hub",
+        "H2:Lisensi & Batasan Hukum",
+        "H1:Lisensi & Batasan Hukum v2.5 Legal",
+        "H2:Pelepasan Tanggung Jawab Hukum: Pengguna Mem",
+        "H3:User Memegang Kendali Penuh",
+        "H3:Bebas Liabilitas Pengembang",
+        "H3:Bukan Kami yang Masuk Hukum",
+        "H3:Prinsip \"AS IS\" Tanpa Garansi",
+        "H3:Piagam Batasan Liabilitas & Pertanggungjawab",
+        "H3:Matriks Perbandingan Kerangka Lisensi",
+        "H3:Pertanyaan Umum Mengenai Hukum & Tanggung Ja",
+        "H4:Q: Apakah pengembang bertanggung jawab jika ",
+        "H4:Q: Apakah saya boleh menggunakan prompt dari",
+        "H4:Q: Bagaimana jika prompt menghasilkan kode y",
+        "H4:Q: Apakah lisensi supporter dapat dialihkan ",
+        "H4:Siap Mengakses Koleksi Tiki Prompt Vault?"
+      ],
+      "buttons": [
+        "",
+        "Dashboard 12",
+        "AI Agent (Idle Workspace) LIVE",
+        "Tiki Vault 12 VIP",
+        "Lisensi & Legal LEGAL",
+        "Aktivasi Lisensi",
+        "Voting Fitur 0",
+        "Beta Lab",
+        "Profil Pengguna",
+        "",
+        "",
+        "",
+        "",
+        "AI Agent",
+        "Masuk",
+        "Dukung Komunitas",
+        "Konfirmasi Pemahaman Saya",
+        "Pernyataan Tanggung Jawab PENTING",
+        "MIT License (Resmi) Vault",
+        "GNU GPL v3",
+        "Apache License 2.0",
+        "Ketentuan Supporter (EULA) 1-Key-1-D",
+        "Salin Piagam Hukum",
+        "Unduh Berkas .txt",
+        "Buka Tiki Prompt Vault",
+        "Dukung Komunitas",
+        "AI Chat"
+      ],
+      "emptyStates": [
+        "Tiki-Tiki Fire Hub Community Supporter PLATFORM UTAMA Dashboard 12 AI Agent (Idle Workspace) LIVE Tiki Vault 12 VIP Lisensi & Legal LEGAL Aktivasi Lisensi KOMUNITAS Voting Fitur 0 Beta Lab AKUN & PROFIL Profil Pengguna Cloud Firestore Live Lisensi & Batasan Hukum AI Agent Masuk Dukung Komunitas Dokumen Resmi Lisensi & Pelepasan Tanggung Jawab Hukum Lisensi & Batasan Hukum v2.5 Legal Materi, skrip, dan prompt pada Tiki-Tiki Fire Hub dirilis di bawah lisensi terbuka standar (MIT, GPL v3, Apache 2.0). Pengguna memegang kendali penuh atas seluruh tindakan pemanfaatan, dan pengembang dibebaskan secara mutlak dari segala liabilitas hukum atas penyalahgunaan atau dampak yang timbul. Status Doktrin Hukum Aktif & Mengikat Prinsip Tanggung Jawab: User Agency Penuh Liabilitas Developer: Bebas 100% (Hold Harmless) Lisensi Prompt Vault: MIT License Konfirmasi Pemahaman Saya KLAUSUL WAJIB BACA Pelepasan Tanggung Jawab Hukum: Pengguna Memegang Kendali Penuh Pengembang, penyedia, dan pengelola Tiki-Tiki Fire Hub TIDAK BERTANGGUNG JAWAB atas tindakan, hasil komputasi, pembuatan konten, kerusakan sistem, kebocoran data, atau konsekuensi hukum apa pun yang diakibatkan oleh penggunaan materi di platform ini. Kendali Penuh di Pundak Anda Setiap perintah ke AI dijalankan atas inisiatif dan otorisasi Anda sendiri. Anda yang menentukan konteks dan penggunaan akhirnya. Bukan Kami yang Masuk Hukum Jika Salah Jika Anda menyalahgunakan prompt untuk melanggar hukum, merugikan pihak ketiga, atau melanggar UU ITE, Anda sendiri yang menghadapi konsekuensi pidana maupun perdata. Pernyataan Tanggung Jawab PENTING MIT License (Resmi) Vault GNU GPL v3 Apache License 2.0 Ketentuan Supporter (EULA) 1-Key-1-Device User Memegang Kendali Penuh Setiap prompt, parameter temperatur, pemilihan model AI, dan perintah yang Anda salin adalah keputusan independen Anda sendiri. Anda adalah eksekutor utama di lingkungan komputasi Anda. Bebas Liabilitas Pengembang Pengembang dan pengelola platform ini dibebaskan seutuhnya dari segala tuntutan hukum, ganti rugi, denda regulasi, atau gugatan perdata/pidana yang disebabkan oleh perbuatan pengguna. Bukan Kami yang Masuk Hukum Jika Anda menggunakan prompt ini untuk menghasilkan konten ilegal, melanggar hak cipta, meretas sistem, atau melanggar UU ITE/hukum setempat, beban pertanggungjawaban hukum 100% ada di pundak Anda. Prinsip \"AS IS\" Tanpa Garansi Semua materi disediakan apa adanya (AS IS) tanpa jaminan kelayakan dagang, akurasi penalaran AI, atau ketiadaan galat. Uji coba dan validasi kode wajib Anda lakukan secara mandiri. Piagam Batasan Liabilitas & Pertanggungjawaban Pidana/Perdata Harap baca dengan seksama pasal-pasal berikut sebelum menggunakan materi apa pun dari repositori ini. Pasal 1 \u2014 Doktrin Kepemilikan Tindakan (Doctrine of User Agency) Platform ini beroperasi semata-mata sebagai pustaka teks, logika instruksi, dan arsitektur penalaran. Platform tidak memiliki agensi otonom, tidak mengeksekusi panggilan API ke sistem eksternal tanpa masukan eksplisit dari pengguna, dan tidak memiliki kendali atas lingkungan komputasi di mana prompt tersebut digunakan. Oleh karenanya, segala keputusan eksekusi berada 100% di tangan pengguna. Pasal 2 \u2014 Pembebasan Total Dari Pelanggaran Hukum Pihak Ketiga (Indemnification) Pengguna dengan ini menyatakan setuju untuk membela, mengganti rugi, dan membebaskan para kontributor, pengembang, pembuat kode, dan administrator platform dari dan terhadap setiap klaim, gugatan, biaya perkara peradilan, tuntutan ganti rugi, denda regulator, atau investigasi penegak hukum yang timbul dari: Pelanggaran Undang-Undang Informasi dan Transaksi Elektronik (UU ITE) atau hukum pidana/perdata di yurisdiksi Anda. Pelanggaran hak cipta, paten, rahasia dagang, atau kekayaan intelektual milik entitas mana pun. Pelanggaran terhadap Kebijakan Penggunaan (Acceptable Use Policy) dari Anthropic, OpenAI, Google, Meta, atau vendor AI lainnya. Penyusupan ke dalam sistem komputer, peretasan tidak sah, atau eksfiltrasi data privat. Pasal 3 \u2014 Ketentuan \"AS IS\" & Ketiadaan Garansi Mutlak SEMUA MATERI, SKRIP, DAN DOKUMEN DISEDIAKAN \"SEBAGAIMANA ADANYA\" TANPA JAMINAN DALAM BENTUK APA PUN, BAIK TERSURAT MAUPUN TERSIRAT. PENGEMBANG TIDAK MENJAMIN BAHWA INSTRUKSI PROMPT AKAN BEBAS DARI KESALAHAN (HALLUCINATIONS), COCOK UNTUK KEBUTUHAN KHUSUS ANDA, ATAU MEMENUHI STANDAR PRODUKSI TANPA VALIDASI MANUSIA. Pasal 4 \u2014 Deklarasi Status Donasi Setiap donasi sukarela yang diberikan oleh supporter adalah kontribusi nirlaba guna membiayai operasional infrastruktur server, lisensi database Firestore, dan eksperimen model bahasa. Donasi bukan merupakan kontrak jual-beli software komersial bergaransi, dan tidak memberikan hak jaminan bebas cacat atas prompt yang diakses. Salin Piagam Hukum Unduh Berkas .txt Terakhir Diperbarui: 10 Oktober 2026 \u00b7 Yurisdiksi Terbuka Matriks Perbandingan Kerangka Lisensi Bagaimana lisensi-lisensi ini melindungi kebebasan berkreasi sekaligus membebaskan pengembang dari tanggung jawab Parameter Lisensi MIT (Vault) GNU GPL v3 Apache 2.0 Tiki Supporter EULA Tanggung Jawab Hukum Pengembang TIDAK ADA (Bebas total) TIDAK ADA (Bebas total) TIDAK ADA (Bebas total) TIDAK ADA (User 100% bertanggung jawab) Kendali Eksekusi di Tangan Pengguna 100% Kendali User 100% Kendali User 100% Kendali User 100% Kendali User Penggunaan Komersial Diizinkan Bebas Diizinkan (Source tetap GPL) Diizinkan Bebas Diizinkan untuk Output Mandiri Modifikasi & Turunan Bebas dimodifikasi Bebas (Wajib Open Source) Bebas dimodifikasi Bebas untuk Kebutuhan Pribadi/Tim Klausul Bebas Garansi (Warranty) Klausul AS-IS eksplisit Bagian 15-16 AS-IS Bagian 7-8 AS-IS Klausul AS-IS + Anti-Liability Pertanyaan Umum Mengenai Hukum & Tanggung Jawab (FAQ) Jawaban ringkas terkait kepatuhan, keabsahan hukum, dan batasan tanggung jawab operasional Q: Apakah pengembang bertanggung jawab jika output dari prompt melanggar hukum? Sama sekali TIDAK. Platform ini hanya menyediakan templat arsitektur instruksi. Keputusan untuk mengeksekusi prompt, input yang Anda masukkan, serta bagaimana output tersebut didistribusikan adalah wewenang dan tanggung jawab hukum mutlak Anda sebagai pengguna. Pengembang dibebaskan secara hukum dari segala dampak tindakan Anda. Q: Apakah saya boleh menggunakan prompt dari Tiki Vault untuk keperluan komersial? Ya, prompt penalaran dan instruksi arsitektur kami dilisensikan bebas di bawah standar MIT License yang memperbolehkan penggunaan komersial. Namun, Anda tetap bertanggung jawab secara mandiri atas kepatuhan terhadap Terms of Service penyedia LLM (seperti Anthropic, OpenAI, atau Google). Q: Bagaimana jika prompt menghasilkan kode yang mengandung celah keamanan atau bug? Semua materi diberikan secara \"AS IS\" tanpa garansi dalam bentuk apa pun. Pengguna wajib melakukan pengujian keamanan, audit sintaks, dan peninjauan mandiri sebelum menerapkan kode ke lingkungan produksi. Kami tidak menanggung kerugian apa pun atas kegagalan sistem. Q: Apakah lisensi supporter dapat dialihkan ke perangkat lain jika perangkat saya rusak? Lisensi supporter terikat secara aman dengan sistem 1-Device-1-Key. Jika Anda mengganti perangkat utama karena perbaikan atau pergantian perangkat keras, silakan hubungi tim administrator melalui panel inbox/tiket dukungan untuk melakukan reset otorisasi secara legal. Siap Mengakses Koleksi Tiki Prompt Vault? Jelajahi ratusan prompt penalaran terverifikasi yang dilisensikan bebas di bawah MIT License. Buka Tiki Prompt Vault Dukung Komunitas AI Chat",
+        "Tiki-Tiki Fire Hub Community Supporter PLATFORM UTAMA Dashboard 12 AI Agent (Idle Workspace) LIVE Tiki Vault 12 VIP Lisensi & Legal LEGAL Aktivasi Lisensi KOMUNITAS Voting Fitur 0 Beta Lab AKUN & PROFIL Profil Pengguna Cloud Firestore Live Lisensi & Batasan Hukum AI Agent Masuk Dukung Komunitas Dokumen Resmi Lisensi & Pelepasan Tanggung Jawab Hukum Lisensi & Batasan Hukum v2.5 Legal Materi, skrip, dan prompt pada Tiki-Tiki Fire Hub dirilis di bawah lisensi terbuka standar (MIT, GPL v3, Apache 2.0). Pengguna memegang kendali penuh atas seluruh tindakan pemanfaatan, dan pengembang dibebaskan secara mutlak dari segala liabilitas hukum atas penyalahgunaan atau dampak yang timbul. Status Doktrin Hukum Aktif & Mengikat Prinsip Tanggung Jawab: User Agency Penuh Liabilitas Developer: Bebas 100% (Hold Harmless) Lisensi Prompt Vault: MIT License Konfirmasi Pemahaman Saya KLAUSUL WAJIB BACA Pelepasan Tanggung Jawab Hukum: Pengguna Memegang Kendali Penuh Pengembang, penyedia, dan pengelola Tiki-Tiki Fire Hub TIDAK BERTANGGUNG JAWAB atas tindakan, hasil komputasi, pembuatan konten, kerusakan sistem, kebocoran data, atau konsekuensi hukum apa pun yang diakibatkan oleh penggunaan materi di platform ini. Kendali Penuh di Pundak Anda Setiap perintah ke AI dijalankan atas inisiatif dan otorisasi Anda sendiri. Anda yang menentukan konteks dan penggunaan akhirnya. Bukan Kami yang Masuk Hukum Jika Salah Jika Anda menyalahgunakan prompt untuk melanggar hukum, merugikan pihak ketiga, atau melanggar UU ITE, Anda sendiri yang menghadapi konsekuensi pidana maupun perdata. Pernyataan Tanggung Jawab PENTING MIT License (Resmi) Vault GNU GPL v3 Apache License 2.0 Ketentuan Supporter (EULA) 1-Key-1-Device User Memegang Kendali Penuh Setiap prompt, parameter temperatur, pemilihan model AI, dan perintah yang Anda salin adalah keputusan independen Anda sendiri. Anda adalah eksekutor utama di lingkungan komputasi Anda. Bebas Liabilitas Pengembang Pengembang dan pengelola platform ini dibebaskan seutuhnya dari segala tuntutan hukum, ganti rugi, denda regulasi, atau gugatan perdata/pidana yang disebabkan oleh perbuatan pengguna. Bukan Kami yang Masuk Hukum Jika Anda menggunakan prompt ini untuk menghasilkan konten ilegal, melanggar hak cipta, meretas sistem, atau melanggar UU ITE/hukum setempat, beban pertanggungjawaban hukum 100% ada di pundak Anda. Prinsip \"AS IS\" Tanpa Garansi Semua materi disediakan apa adanya (AS IS) tanpa jaminan kelayakan dagang, akurasi penalaran AI, atau ketiadaan galat. Uji coba dan validasi kode wajib Anda lakukan secara mandiri. Piagam Batasan Liabilitas & Pertanggungjawaban Pidana/Perdata Harap baca dengan seksama pasal-pasal berikut sebelum menggunakan materi apa pun dari repositori ini. Pasal 1 \u2014 Doktrin Kepemilikan Tindakan (Doctrine of User Agency) Platform ini beroperasi semata-mata sebagai pustaka teks, logika instruksi, dan arsitektur penalaran. Platform tidak memiliki agensi otonom, tidak mengeksekusi panggilan API ke sistem eksternal tanpa masukan eksplisit dari pengguna, dan tidak memiliki kendali atas lingkungan komputasi di mana prompt tersebut digunakan. Oleh karenanya, segala keputusan eksekusi berada 100% di tangan pengguna. Pasal 2 \u2014 Pembebasan Total Dari Pelanggaran Hukum Pihak Ketiga (Indemnification) Pengguna dengan ini menyatakan setuju untuk membela, mengganti rugi, dan membebaskan para kontributor, pengembang, pembuat kode, dan administrator platform dari dan terhadap setiap klaim, gugatan, biaya perkara peradilan, tuntutan ganti rugi, denda regulator, atau investigasi penegak hukum yang timbul dari: Pelanggaran Undang-Undang Informasi dan Transaksi Elektronik (UU ITE) atau hukum pidana/perdata di yurisdiksi Anda. Pelanggaran hak cipta, paten, rahasia dagang, atau kekayaan intelektual milik entitas mana pun. Pelanggaran terhadap Kebijakan Penggunaan (Acceptable Use Policy) dari Anthropic, OpenAI, Google, Meta, atau vendor AI lainnya. Penyusupan ke dalam sistem komputer, peretasan tidak sah, atau eksfiltrasi data privat. Pasal 3 \u2014 Ketentuan \"AS IS\" & Ketiadaan Garansi Mutlak SEMUA MATERI, SKRIP, DAN DOKUMEN DISEDIAKAN \"SEBAGAIMANA ADANYA\" TANPA JAMINAN DALAM BENTUK APA PUN, BAIK TERSURAT MAUPUN TERSIRAT. PENGEMBANG TIDAK MENJAMIN BAHWA INSTRUKSI PROMPT AKAN BEBAS DARI KESALAHAN (HALLUCINATIONS), COCOK UNTUK KEBUTUHAN KHUSUS ANDA, ATAU MEMENUHI STANDAR PRODUKSI TANPA VALIDASI MANUSIA. Pasal 4 \u2014 Deklarasi Status Donasi Setiap donasi sukarela yang diberikan oleh supporter adalah kontribusi nirlaba guna membiayai operasional infrastruktur server, lisensi database Firestore, dan eksperimen model bahasa. Donasi bukan merupakan kontrak jual-beli software komersial bergaransi, dan tidak memberikan hak jaminan bebas cacat atas prompt yang diakses. Salin Piagam Hukum Unduh Berkas .txt Terakhir Diperbarui: 10 Oktober 2026 \u00b7 Yurisdiksi Terbuka Matriks Perbandingan Kerangka Lisensi Bagaimana lisensi-lisensi ini melindungi kebebasan berkreasi sekaligus membebaskan pengembang dari tanggung jawab Parameter Lisensi MIT (Vault) GNU GPL v3 Apache 2.0 Tiki Supporter EULA Tanggung Jawab Hukum Pengembang TIDAK ADA (Bebas total) TIDAK ADA (Bebas total) TIDAK ADA (Bebas total) TIDAK ADA (User 100% bertanggung jawab) Kendali Eksekusi di Tangan Pengguna 100% Kendali User 100% Kendali User 100% Kendali User 100% Kendali User Penggunaan Komersial Diizinkan Bebas Diizinkan (Source tetap GPL) Diizinkan Bebas Diizinkan untuk Output Mandiri Modifikasi & Turunan Bebas dimodifikasi Bebas (Wajib Open Source) Bebas dimodifikasi Bebas untuk Kebutuhan Pribadi/Tim Klausul Bebas Garansi (Warranty) Klausul AS-IS eksplisit Bagian 15-16 AS-IS Bagian 7-8 AS-IS Klausul AS-IS + Anti-Liability Pertanyaan Umum Mengenai Hukum & Tanggung Jawab (FAQ) Jawaban ringkas terkait kepatuhan, keabsahan hukum, dan batasan tanggung jawab operasional Q: Apakah pengembang bertanggung jawab jika output dari prompt melanggar hukum? Sama sekali TIDAK. Platform ini hanya menyediakan templat arsitektur instruksi. Keputusan untuk mengeksekusi prompt, input yang Anda masukkan, serta bagaimana output tersebut didistribusikan adalah wewenang dan tanggung jawab hukum mutlak Anda sebagai pengguna. Pengembang dibebaskan secara hukum dari segala dampak tindakan Anda. Q: Apakah saya boleh menggunakan prompt dari Tiki Vault untuk keperluan komersial? Ya, prompt penalaran dan instruksi arsitektur kami dilisensikan bebas di bawah standar MIT License yang memperbolehkan penggunaan komersial. Namun, Anda tetap bertanggung jawab secara mandiri atas kepatuhan terhadap Terms of Service penyedia LLM (seperti Anthropic, OpenAI, atau Google). Q: Bagaimana jika prompt menghasilkan kode yang mengandung celah keamanan atau bug? Semua materi diberikan secara \"AS IS\" tanpa garansi dalam bentuk apa pun. Pengguna wajib melakukan pengujian keamanan, audit sintaks, dan peninjauan mandiri sebelum menerapkan kode ke lingkungan produksi. Kami tidak menanggung kerugian apa pun atas kegagalan sistem. Q: Apakah lisensi supporter dapat dialihkan ke perangkat lain jika perangkat saya rusak? Lisensi supporter terikat secara aman dengan sistem 1-Device-1-Key. Jika Anda mengganti perangkat utama karena perbaikan atau pergantian perangkat keras, silakan hubungi tim administrator melalui panel inbox/tiket dukungan untuk melakukan reset otorisasi secara legal. Siap Mengakses Koleksi Tiki Prompt Vault? Jelajahi ratusan prompt penalaran terverifikasi yang dilisensikan bebas di bawah MIT License. Buka Tiki Prompt Vault Dukung Komunitas AI Chat",
+        "Tiki-Tiki Fire Hub Community Supporter PLATFORM UTAMA Dashboard 12 AI Agent (Idle Workspace) LIVE Tiki Vault 12 VIP Lisensi & Legal LEGAL Aktivasi Lisensi KOMUNITAS Voting Fitur 0 Beta Lab AKUN & PROFIL Profil Pengguna Cloud Firestore Live Lisensi & Batasan Hukum AI Agent Masuk Dukung Komunitas Dokumen Resmi Lisensi & Pelepasan Tanggung Jawab Hukum Lisensi & Batasan Hukum v2.5 Legal Materi, skrip, dan prompt pada Tiki-Tiki Fire Hub dirilis di bawah lisensi terbuka standar (MIT, GPL v3, Apache 2.0). Pengguna memegang kendali penuh atas seluruh tindakan pemanfaatan, dan pengembang dibebaskan secara mutlak dari segala liabilitas hukum atas penyalahgunaan atau dampak yang timbul. Status Doktrin Hukum Aktif & Mengikat Prinsip Tanggung Jawab: User Agency Penuh Liabilitas Developer: Bebas 100% (Hold Harmless) Lisensi Prompt Vault: MIT License Konfirmasi Pemahaman Saya KLAUSUL WAJIB BACA Pelepasan Tanggung Jawab Hukum: Pengguna Memegang Kendali Penuh Pengembang, penyedia, dan pengelola Tiki-Tiki Fire Hub TIDAK BERTANGGUNG JAWAB atas tindakan, hasil komputasi, pembuatan konten, kerusakan sistem, kebocoran data, atau konsekuensi hukum apa pun yang diakibatkan oleh penggunaan materi di platform ini. Kendali Penuh di Pundak Anda Setiap perintah ke AI dijalankan atas inisiatif dan otorisasi Anda sendiri. Anda yang menentukan konteks dan penggunaan akhirnya. Bukan Kami yang Masuk Hukum Jika Salah Jika Anda menyalahgunakan prompt untuk melanggar hukum, merugikan pihak ketiga, atau melanggar UU ITE, Anda sendiri yang menghadapi konsekuensi pidana maupun perdata. Pernyataan Tanggung Jawab PENTING MIT License (Resmi) Vault GNU GPL v3 Apache License 2.0 Ketentuan Supporter (EULA) 1-Key-1-Device User Memegang Kendali Penuh Setiap prompt, parameter temperatur, pemilihan model AI, dan perintah yang Anda salin adalah keputusan independen Anda sendiri. Anda adalah eksekutor utama di lingkungan komputasi Anda. Bebas Liabilitas Pengembang Pengembang dan pengelola platform ini dibebaskan seutuhnya dari segala tuntutan hukum, ganti rugi, denda regulasi, atau gugatan perdata/pidana yang disebabkan oleh perbuatan pengguna. Bukan Kami yang Masuk Hukum Jika Anda menggunakan prompt ini untuk menghasilkan konten ilegal, melanggar hak cipta, meretas sistem, atau melanggar UU ITE/hukum setempat, beban pertanggungjawaban hukum 100% ada di pundak Anda. Prinsip \"AS IS\" Tanpa Garansi Semua materi disediakan apa adanya (AS IS) tanpa jaminan kelayakan dagang, akurasi penalaran AI, atau ketiadaan galat. Uji coba dan validasi kode wajib Anda lakukan secara mandiri. Piagam Batasan Liabilitas & Pertanggungjawaban Pidana/Perdata Harap baca dengan seksama pasal-pasal berikut sebelum menggunakan materi apa pun dari repositori ini. Pasal 1 \u2014 Doktrin Kepemilikan Tindakan (Doctrine of User Agency) Platform ini beroperasi semata-mata sebagai pustaka teks, logika instruksi, dan arsitektur penalaran. Platform tidak memiliki agensi otonom, tidak mengeksekusi panggilan API ke sistem eksternal tanpa masukan eksplisit dari pengguna, dan tidak memiliki kendali atas lingkungan komputasi di mana prompt tersebut digunakan. Oleh karenanya, segala keputusan eksekusi berada 100% di tangan pengguna. Pasal 2 \u2014 Pembebasan Total Dari Pelanggaran Hukum Pihak Ketiga (Indemnification) Pengguna dengan ini menyatakan setuju untuk membela, mengganti rugi, dan membebaskan para kontributor, pengembang, pembuat kode, dan administrator platform dari dan terhadap setiap klaim, gugatan, biaya perkara peradilan, tuntutan ganti rugi, denda regulator, atau investigasi penegak hukum yang timbul dari: Pelanggaran Undang-Undang Informasi dan Transaksi Elektronik (UU ITE) atau hukum pidana/perdata di yurisdiksi Anda. Pelanggaran hak cipta, paten, rahasia dagang, atau kekayaan intelektual milik entitas mana pun. Pelanggaran terhadap Kebijakan Penggunaan (Acceptable Use Policy) dari Anthropic, OpenAI, Google, Meta, atau vendor AI lainnya. Penyusupan ke dalam sistem komputer, peretasan tidak sah, atau eksfiltrasi data privat. Pasal 3 \u2014 Ketentuan \"AS IS\" & Ketiadaan Garansi Mutlak SEMUA MATERI, SKRIP, DAN DOKUMEN DISEDIAKAN \"SEBAGAIMANA ADANYA\" TANPA JAMINAN DALAM BENTUK APA PUN, BAIK TERSURAT MAUPUN TERSIRAT. PENGEMBANG TIDAK MENJAMIN BAHWA INSTRUKSI PROMPT AKAN BEBAS DARI KESALAHAN (HALLUCINATIONS), COCOK UNTUK KEBUTUHAN KHUSUS ANDA, ATAU MEMENUHI STANDAR PRODUKSI TANPA VALIDASI MANUSIA. Pasal 4 \u2014 Deklarasi Status Donasi Setiap donasi sukarela yang diberikan oleh supporter adalah kontribusi nirlaba guna membiayai operasional infrastruktur server, lisensi database Firestore, dan eksperimen model bahasa. Donasi bukan merupakan kontrak jual-beli software komersial bergaransi, dan tidak memberikan hak jaminan bebas cacat atas prompt yang diakses. Salin Piagam Hukum Unduh Berkas .txt Terakhir Diperbarui: 10 Oktober 2026 \u00b7 Yurisdiksi Terbuka Matriks Perbandingan Kerangka Lisensi Bagaimana lisensi-lisensi ini melindungi kebebasan berkreasi sekaligus membebaskan pengembang dari tanggung jawab Parameter Lisensi MIT (Vault) GNU GPL v3 Apache 2.0 Tiki Supporter EULA Tanggung Jawab Hukum Pengembang TIDAK ADA (Bebas total) TIDAK ADA (Bebas total) TIDAK ADA (Bebas total) TIDAK ADA (User 100% bertanggung jawab) Kendali Eksekusi di Tangan Pengguna 100% Kendali User 100% Kendali User 100% Kendali User 100% Kendali User Penggunaan Komersial Diizinkan Bebas Diizinkan (Source tetap GPL) Diizinkan Bebas Diizinkan untuk Output Mandiri Modifikasi & Turunan Bebas dimodifikasi Bebas (Wajib Open Source) Bebas dimodifikasi Bebas untuk Kebutuhan Pribadi/Tim Klausul Bebas Garansi (Warranty) Klausul AS-IS eksplisit Bagian 15-16 AS-IS Bagian 7-8 AS-IS Klausul AS-IS + Anti-Liability Pertanyaan Umum Mengenai Hukum & Tanggung Jawab (FAQ) Jawaban ringkas terkait kepatuhan, keabsahan hukum, dan batasan tanggung jawab operasional Q: Apakah pengembang bertanggung jawab jika output dari prompt melanggar hukum? Sama sekali TIDAK. Platform ini hanya menyediakan templat arsitektur instruksi. Keputusan untuk mengeksekusi prompt, input yang Anda masukkan, serta bagaimana output tersebut didistribusikan adalah wewenang dan tanggung jawab hukum mutlak Anda sebagai pengguna. Pengembang dibebaskan secara hukum dari segala dampak tindakan Anda. Q: Apakah saya boleh menggunakan prompt dari Tiki Vault untuk keperluan komersial? Ya, prompt penalaran dan instruksi arsitektur kami dilisensikan bebas di bawah standar MIT License yang memperbolehkan penggunaan komersial. Namun, Anda tetap bertanggung jawab secara mandiri atas kepatuhan terhadap Terms of Service penyedia LLM (seperti Anthropic, OpenAI, atau Google). Q: Bagaimana jika prompt menghasilkan kode yang mengandung celah keamanan atau bug? Semua materi diberikan secara \"AS IS\" tanpa garansi dalam bentuk apa pun. Pengguna wajib melakukan pengujian keamanan, audit sintaks, dan peninjauan mandiri sebelum menerapkan kode ke lingkungan produksi. Kami tidak menanggung kerugian apa pun atas kegagalan sistem. Q: Apakah lisensi supporter dapat dialihkan ke perangkat lain jika perangkat saya rusak? Lisensi supporter terikat secara aman dengan sistem 1-Device-1-Key. Jika Anda mengganti perangkat utama karena perbaikan atau pergantian perangkat keras, silakan hubungi tim administrator melalui panel inbox/tiket dukungan untuk melakukan reset otorisasi secara legal. Siap Mengakses Koleksi Tiki Prompt Vault? Jelajahi ratusan prompt penalaran terverifikasi yang dilisensikan bebas di bawah MIT License. Buka Tiki Prompt Vault Dukung Komunitas AI Chat",
+        "Tiki-Tiki Fire Hub Community Supporter PLATFORM UTAMA Dashboard 12 AI Agent (Idle Workspace) LIVE Tiki Vault 12 VIP Lisensi & Legal LEGAL Aktivasi Lisensi KOMUNITAS Voting Fitur 0 Beta Lab AKUN & PROFIL Profil Pengguna Cloud Firestore Live Lisensi & Batasan Hukum AI Agent Masuk Dukung Komunitas Dokumen Resmi Lisensi & Pelepasan Tanggung Jawab Hukum Lisensi & Batasan Hukum v2.5 Legal Materi, skrip, dan prompt pada Tiki-Tiki Fire Hub dirilis di bawah lisensi terbuka standar (MIT, GPL v3, Apache 2.0). Pengguna memegang kendali penuh atas seluruh tindakan pemanfaatan, dan pengembang dibebaskan secara mutlak dari segala liabilitas hukum atas penyalahgunaan atau dampak yang timbul. Status Doktrin Hukum Aktif & Mengikat Prinsip Tanggung Jawab: User Agency Penuh Liabilitas Developer: Bebas 100% (Hold Harmless) Lisensi Prompt Vault: MIT License Konfirmasi Pemahaman Saya KLAUSUL WAJIB BACA Pelepasan Tanggung Jawab Hukum: Pengguna Memegang Kendali Penuh Pengembang, penyedia, dan pengelola Tiki-Tiki Fire Hub TIDAK BERTANGGUNG JAWAB atas tindakan, hasil komputasi, pembuatan konten, kerusakan sistem, kebocoran data, atau konsekuensi hukum apa pun yang diakibatkan oleh penggunaan materi di platform ini. Kendali Penuh di Pundak Anda Setiap perintah ke AI dijalankan atas inisiatif dan otorisasi Anda sendiri. Anda yang menentukan konteks dan penggunaan akhirnya. Bukan Kami yang Masuk Hukum Jika Salah Jika Anda menyalahgunakan prompt untuk melanggar hukum, merugikan pihak ketiga, atau melanggar UU ITE, Anda sendiri yang menghadapi konsekuensi pidana maupun perdata. Pernyataan Tanggung Jawab PENTING MIT License (Resmi) Vault GNU GPL v3 Apache License 2.0 Ketentuan Supporter (EULA) 1-Key-1-Device User Memegang Kendali Penuh Setiap prompt, parameter temperatur, pemilihan model AI, dan perintah yang Anda salin adalah keputusan independen Anda sendiri. Anda adalah eksekutor utama di lingkungan komputasi Anda. Bebas Liabilitas Pengembang Pengembang dan pengelola platform ini dibebaskan seutuhnya dari segala tuntutan hukum, ganti rugi, denda regulasi, atau gugatan perdata/pidana yang disebabkan oleh perbuatan pengguna. Bukan Kami yang Masuk Hukum Jika Anda menggunakan prompt ini untuk menghasilkan konten ilegal, melanggar hak cipta, meretas sistem, atau melanggar UU ITE/hukum setempat, beban pertanggungjawaban hukum 100% ada di pundak Anda. Prinsip \"AS IS\" Tanpa Garansi Semua materi disediakan apa adanya (AS IS) tanpa jaminan kelayakan dagang, akurasi penalaran AI, atau ketiadaan galat. Uji coba dan validasi kode wajib Anda lakukan secara mandiri. Piagam Batasan Liabilitas & Pertanggungjawaban Pidana/Perdata Harap baca dengan seksama pasal-pasal berikut sebelum menggunakan materi apa pun dari repositori ini. Pasal 1 \u2014 Doktrin Kepemilikan Tindakan (Doctrine of User Agency) Platform ini beroperasi semata-mata sebagai pustaka teks, logika instruksi, dan arsitektur penalaran. Platform tidak memiliki agensi otonom, tidak mengeksekusi panggilan API ke sistem eksternal tanpa masukan eksplisit dari pengguna, dan tidak memiliki kendali atas lingkungan komputasi di mana prompt tersebut digunakan. Oleh karenanya, segala keputusan eksekusi berada 100% di tangan pengguna. Pasal 2 \u2014 Pembebasan Total Dari Pelanggaran Hukum Pihak Ketiga (Indemnification) Pengguna dengan ini menyatakan setuju untuk membela, mengganti rugi, dan membebaskan para kontributor, pengembang, pembuat kode, dan administrator platform dari dan terhadap setiap klaim, gugatan, biaya perkara peradilan, tuntutan ganti rugi, denda regulator, atau investigasi penegak hukum yang timbul dari: Pelanggaran Undang-Undang Informasi dan Transaksi Elektronik (UU ITE) atau hukum pidana/perdata di yurisdiksi Anda. Pelanggaran hak cipta, paten, rahasia dagang, atau kekayaan intelektual milik entitas mana pun. Pelanggaran terhadap Kebijakan Penggunaan (Acceptable Use Policy) dari Anthropic, OpenAI, Google, Meta, atau vendor AI lainnya. Penyusupan ke dalam sistem komputer, peretasan tidak sah, atau eksfiltrasi data privat. Pasal 3 \u2014 Ketentuan \"AS IS\" & Ketiadaan Garansi Mutlak SEMUA MATERI, SKRIP, DAN DOKUMEN DISEDIAKAN \"SEBAGAIMANA ADANYA\" TANPA JAMINAN DALAM BENTUK APA PUN, BAIK TERSURAT MAUPUN TERSIRAT. PENGEMBANG TIDAK MENJAMIN BAHWA INSTRUKSI PROMPT AKAN BEBAS DARI KESALAHAN (HALLUCINATIONS), COCOK UNTUK KEBUTUHAN KHUSUS ANDA, ATAU MEMENUHI STANDAR PRODUKSI TANPA VALIDASI MANUSIA. Pasal 4 \u2014 Deklarasi Status Donasi Setiap donasi sukarela yang diberikan oleh supporter adalah kontribusi nirlaba guna membiayai operasional infrastruktur server, lisensi database Firestore, dan eksperimen model bahasa. Donasi bukan merupakan kontrak jual-beli software komersial bergaransi, dan tidak memberikan hak jaminan bebas cacat atas prompt yang diakses. Salin Piagam Hukum Unduh Berkas .txt Terakhir Diperbarui: 10 Oktober 2026 \u00b7 Yurisdiksi Terbuka Matriks Perbandingan Kerangka Lisensi Bagaimana lisensi-lisensi ini melindungi kebebasan berkreasi sekaligus membebaskan pengembang dari tanggung jawab Parameter Lisensi MIT (Vault) GNU GPL v3 Apache 2.0 Tiki Supporter EULA Tanggung Jawab Hukum Pengembang TIDAK ADA (Bebas total) TIDAK ADA (Bebas total) TIDAK ADA (Bebas total) TIDAK ADA (User 100% bertanggung jawab) Kendali Eksekusi di Tangan Pengguna 100% Kendali User 100% Kendali User 100% Kendali User 100% Kendali User Penggunaan Komersial Diizinkan Bebas Diizinkan (Source tetap GPL) Diizinkan Bebas Diizinkan untuk Output Mandiri Modifikasi & Turunan Bebas dimodifikasi Bebas (Wajib Open Source) Bebas dimodifikasi Bebas untuk Kebutuhan Pribadi/Tim Klausul Bebas Garansi (Warranty) Klausul AS-IS eksplisit Bagian 15-16 AS-IS Bagian 7-8 AS-IS Klausul AS-IS + Anti-Liability Pertanyaan Umum Mengenai Hukum & Tanggung Jawab (FAQ) Jawaban ringkas terkait kepatuhan, keabsahan hukum, dan batasan tanggung jawab operasional Q: Apakah pengembang bertanggung jawab jika output dari prompt melanggar hukum? Sama sekali TIDAK. Platform ini hanya menyediakan templat arsitektur instruksi. Keputusan untuk mengeksekusi prompt, input yang Anda masukkan, serta bagaimana output tersebut didistribusikan adalah wewenang dan tanggung jawab hukum mutlak Anda sebagai pengguna. Pengembang dibebaskan secara hukum dari segala dampak tindakan Anda. Q: Apakah saya boleh menggunakan prompt dari Tiki Vault untuk keperluan komersial? Ya, prompt penalaran dan instruksi arsitektur kami dilisensikan bebas di bawah standar MIT License yang memperbolehkan penggunaan komersial. Namun, Anda tetap bertanggung jawab secara mandiri atas kepatuhan terhadap Terms of Service penyedia LLM (seperti Anthropic, OpenAI, atau Google). Q: Bagaimana jika prompt menghasilkan kode yang mengandung celah keamanan atau bug? Semua materi diberikan secara \"AS IS\" tanpa garansi dalam bentuk apa pun. Pengguna wajib melakukan pengujian keamanan, audit sintaks, dan peninjauan mandiri sebelum menerapkan kode ke lingkungan produksi. Kami tidak menanggung kerugian apa pun atas kegagalan sistem. Q: Apakah lisensi supporter dapat dialihkan ke perangkat lain jika perangkat saya rusak? Lisensi supporter terikat secara aman dengan sistem 1-Device-1-Key. Jika Anda mengganti perangkat utama karena perbaikan atau pergantian perangkat keras, silakan hubungi tim administrator melalui panel inbox/tiket dukungan untuk melakukan reset otorisasi secara legal. Siap Mengakses Koleksi Tiki Prompt Vault? Jelajahi ratusan prompt penalaran terverifikasi yang dilisensikan bebas di bawah MIT License. Buka Tiki Prompt Vault Dukung Komunitas",
+        "Lisensi & Batasan Hukum AI Agent Masuk Dukung Komunitas Dokumen Resmi Lisensi & Pelepasan Tanggung Jawab Hukum Lisensi & Batasan Hukum v2.5 Legal Materi, skrip, dan prompt pada Tiki-Tiki Fire Hub dirilis di bawah lisensi terbuka standar (MIT, GPL v3, Apache 2.0). Pengguna memegang kendali penuh atas seluruh tindakan pemanfaatan, dan pengembang dibebaskan secara mutlak dari segala liabilitas hukum atas penyalahgunaan atau dampak yang timbul. Status Doktrin Hukum Aktif & Mengikat Prinsip Tanggung Jawab: User Agency Penuh Liabilitas Developer: Bebas 100% (Hold Harmless) Lisensi Prompt Vault: MIT License Konfirmasi Pemahaman Saya KLAUSUL WAJIB BACA Pelepasan Tanggung Jawab Hukum: Pengguna Memegang Kendali Penuh Pengembang, penyedia, dan pengelola Tiki-Tiki Fire Hub TIDAK BERTANGGUNG JAWAB atas tindakan, hasil komputasi, pembuatan konten, kerusakan sistem, kebocoran data, atau konsekuensi hukum apa pun yang diakibatkan oleh penggunaan materi di platform ini. Kendali Penuh di Pundak Anda Setiap perintah ke AI dijalankan atas inisiatif dan otorisasi Anda sendiri. Anda yang menentukan konteks dan penggunaan akhirnya. Bukan Kami yang Masuk Hukum Jika Salah Jika Anda menyalahgunakan prompt untuk melanggar hukum, merugikan pihak ketiga, atau melanggar UU ITE, Anda sendiri yang menghadapi konsekuensi pidana maupun perdata. Pernyataan Tanggung Jawab PENTING MIT License (Resmi) Vault GNU GPL v3 Apache License 2.0 Ketentuan Supporter (EULA) 1-Key-1-Device User Memegang Kendali Penuh Setiap prompt, parameter temperatur, pemilihan model AI, dan perintah yang Anda salin adalah keputusan independen Anda sendiri. Anda adalah eksekutor utama di lingkungan komputasi Anda. Bebas Liabilitas Pengembang Pengembang dan pengelola platform ini dibebaskan seutuhnya dari segala tuntutan hukum, ganti rugi, denda regulasi, atau gugatan perdata/pidana yang disebabkan oleh perbuatan pengguna. Bukan Kami yang Masuk Hukum Jika Anda menggunakan prompt ini untuk menghasilkan konten ilegal, melanggar hak cipta, meretas sistem, atau melanggar UU ITE/hukum setempat, beban pertanggungjawaban hukum 100% ada di pundak Anda. Prinsip \"AS IS\" Tanpa Garansi Semua materi disediakan apa adanya (AS IS) tanpa jaminan kelayakan dagang, akurasi penalaran AI, atau ketiadaan galat. Uji coba dan validasi kode wajib Anda lakukan secara mandiri. Piagam Batasan Liabilitas & Pertanggungjawaban Pidana/Perdata Harap baca dengan seksama pasal-pasal berikut sebelum menggunakan materi apa pun dari repositori ini. Pasal 1 \u2014 Doktrin Kepemilikan Tindakan (Doctrine of User Agency) Platform ini beroperasi semata-mata sebagai pustaka teks, logika instruksi, dan arsitektur penalaran. Platform tidak memiliki agensi otonom, tidak mengeksekusi panggilan API ke sistem eksternal tanpa masukan eksplisit dari pengguna, dan tidak memiliki kendali atas lingkungan komputasi di mana prompt tersebut digunakan. Oleh karenanya, segala keputusan eksekusi berada 100% di tangan pengguna. Pasal 2 \u2014 Pembebasan Total Dari Pelanggaran Hukum Pihak Ketiga (Indemnification) Pengguna dengan ini menyatakan setuju untuk membela, mengganti rugi, dan membebaskan para kontributor, pengembang, pembuat kode, dan administrator platform dari dan terhadap setiap klaim, gugatan, biaya perkara peradilan, tuntutan ganti rugi, denda regulator, atau investigasi penegak hukum yang timbul dari: Pelanggaran Undang-Undang Informasi dan Transaksi Elektronik (UU ITE) atau hukum pidana/perdata di yurisdiksi Anda. Pelanggaran hak cipta, paten, rahasia dagang, atau kekayaan intelektual milik entitas mana pun. Pelanggaran terhadap Kebijakan Penggunaan (Acceptable Use Policy) dari Anthropic, OpenAI, Google, Meta, atau vendor AI lainnya. Penyusupan ke dalam sistem komputer, peretasan tidak sah, atau eksfiltrasi data privat. Pasal 3 \u2014 Ketentuan \"AS IS\" & Ketiadaan Garansi Mutlak SEMUA MATERI, SKRIP, DAN DOKUMEN DISEDIAKAN \"SEBAGAIMANA ADANYA\" TANPA JAMINAN DALAM BENTUK APA PUN, BAIK TERSURAT MAUPUN TERSIRAT. PENGEMBANG TIDAK MENJAMIN BAHWA INSTRUKSI PROMPT AKAN BEBAS DARI KESALAHAN (HALLUCINATIONS), COCOK UNTUK KEBUTUHAN KHUSUS ANDA, ATAU MEMENUHI STANDAR PRODUKSI TANPA VALIDASI MANUSIA. Pasal 4 \u2014 Deklarasi Status Donasi Setiap donasi sukarela yang diberikan oleh supporter adalah kontribusi nirlaba guna membiayai operasional infrastruktur server, lisensi database Firestore, dan eksperimen model bahasa. Donasi bukan merupakan kontrak jual-beli software komersial bergaransi, dan tidak memberikan hak jaminan bebas cacat atas prompt yang diakses. Salin Piagam Hukum Unduh Berkas .txt Terakhir Diperbarui: 10 Oktober 2026 \u00b7 Yurisdiksi Terbuka Matriks Perbandingan Kerangka Lisensi Bagaimana lisensi-lisensi ini melindungi kebebasan berkreasi sekaligus membebaskan pengembang dari tanggung jawab Parameter Lisensi MIT (Vault) GNU GPL v3 Apache 2.0 Tiki Supporter EULA Tanggung Jawab Hukum Pengembang TIDAK ADA (Bebas total) TIDAK ADA (Bebas total) TIDAK ADA (Bebas total) TIDAK ADA (User 100% bertanggung jawab) Kendali Eksekusi di Tangan Pengguna 100% Kendali User 100% Kendali User 100% Kendali User 100% Kendali User Penggunaan Komersial Diizinkan Bebas Diizinkan (Source tetap GPL) Diizinkan Bebas Diizinkan untuk Output Mandiri Modifikasi & Turunan Bebas dimodifikasi Bebas (Wajib Open Source) Bebas dimodifikasi Bebas untuk Kebutuhan Pribadi/Tim Klausul Bebas Garansi (Warranty) Klausul AS-IS eksplisit Bagian 15-16 AS-IS Bagian 7-8 AS-IS Klausul AS-IS + Anti-Liability Pertanyaan Umum Mengenai Hukum & Tanggung Jawab (FAQ) Jawaban ringkas terkait kepatuhan, keabsahan hukum, dan batasan tanggung jawab operasional Q: Apakah pengembang bertanggung jawab jika output dari prompt melanggar hukum? Sama sekali TIDAK. Platform ini hanya menyediakan templat arsitektur instruksi. Keputusan untuk mengeksekusi prompt, input yang Anda masukkan, serta bagaimana output tersebut didistribusikan adalah wewenang dan tanggung jawab hukum mutlak Anda sebagai pengguna. Pengembang dibebaskan secara hukum dari segala dampak tindakan Anda. Q: Apakah saya boleh menggunakan prompt dari Tiki Vault untuk keperluan komersial? Ya, prompt penalaran dan instruksi arsitektur kami dilisensikan bebas di bawah standar MIT License yang memperbolehkan penggunaan komersial. Namun, Anda tetap bertanggung jawab secara mandiri atas kepatuhan terhadap Terms of Service penyedia LLM (seperti Anthropic, OpenAI, atau Google). Q: Bagaimana jika prompt menghasilkan kode yang mengandung celah keamanan atau bug? Semua materi diberikan secara \"AS IS\" tanpa garansi dalam bentuk apa pun. Pengguna wajib melakukan pengujian keamanan, audit sintaks, dan peninjauan mandiri sebelum menerapkan kode ke lingkungan produksi. Kami tidak menanggung kerugian apa pun atas kegagalan sistem. Q: Apakah lisensi supporter dapat dialihkan ke perangkat lain jika perangkat saya rusak? Lisensi supporter terikat secara aman dengan sistem 1-Device-1-Key. Jika Anda mengganti perangkat utama karena perbaikan atau pergantian perangkat keras, silakan hubungi tim administrator melalui panel inbox/tiket dukungan untuk melakukan reset otorisasi secara legal. Siap Mengakses Koleksi Tiki Prompt Vault? Jelajahi ratusan prompt penalaran terverifikasi yang dilisensikan bebas di bawah MIT License. Buka Tiki Prompt Vault Dukung Komunitas",
+        "Dokumen Resmi Lisensi & Pelepasan Tanggung Jawab Hukum Lisensi & Batasan Hukum v2.5 Legal Materi, skrip, dan prompt pada Tiki-Tiki Fire Hub dirilis di bawah lisensi terbuka standar (MIT, GPL v3, Apache 2.0). Pengguna memegang kendali penuh atas seluruh tindakan pemanfaatan, dan pengembang dibebaskan secara mutlak dari segala liabilitas hukum atas penyalahgunaan atau dampak yang timbul. Status Doktrin Hukum Aktif & Mengikat Prinsip Tanggung Jawab: User Agency Penuh Liabilitas Developer: Bebas 100% (Hold Harmless) Lisensi Prompt Vault: MIT License Konfirmasi Pemahaman Saya KLAUSUL WAJIB BACA Pelepasan Tanggung Jawab Hukum: Pengguna Memegang Kendali Penuh Pengembang, penyedia, dan pengelola Tiki-Tiki Fire Hub TIDAK BERTANGGUNG JAWAB atas tindakan, hasil komputasi, pembuatan konten, kerusakan sistem, kebocoran data, atau konsekuensi hukum apa pun yang diakibatkan oleh penggunaan materi di platform ini. Kendali Penuh di Pundak Anda Setiap perintah ke AI dijalankan atas inisiatif dan otorisasi Anda sendiri. Anda yang menentukan konteks dan penggunaan akhirnya. Bukan Kami yang Masuk Hukum Jika Salah Jika Anda menyalahgunakan prompt untuk melanggar hukum, merugikan pihak ketiga, atau melanggar UU ITE, Anda sendiri yang menghadapi konsekuensi pidana maupun perdata. Pernyataan Tanggung Jawab PENTING MIT License (Resmi) Vault GNU GPL v3 Apache License 2.0 Ketentuan Supporter (EULA) 1-Key-1-Device User Memegang Kendali Penuh Setiap prompt, parameter temperatur, pemilihan model AI, dan perintah yang Anda salin adalah keputusan independen Anda sendiri. Anda adalah eksekutor utama di lingkungan komputasi Anda. Bebas Liabilitas Pengembang Pengembang dan pengelola platform ini dibebaskan seutuhnya dari segala tuntutan hukum, ganti rugi, denda regulasi, atau gugatan perdata/pidana yang disebabkan oleh perbuatan pengguna. Bukan Kami yang Masuk Hukum Jika Anda menggunakan prompt ini untuk menghasilkan konten ilegal, melanggar hak cipta, meretas sistem, atau melanggar UU ITE/hukum setempat, beban pertanggungjawaban hukum 100% ada di pundak Anda. Prinsip \"AS IS\" Tanpa Garansi Semua materi disediakan apa adanya (AS IS) tanpa jaminan kelayakan dagang, akurasi penalaran AI, atau ketiadaan galat. Uji coba dan validasi kode wajib Anda lakukan secara mandiri. Piagam Batasan Liabilitas & Pertanggungjawaban Pidana/Perdata Harap baca dengan seksama pasal-pasal berikut sebelum menggunakan materi apa pun dari repositori ini. Pasal 1 \u2014 Doktrin Kepemilikan Tindakan (Doctrine of User Agency) Platform ini beroperasi semata-mata sebagai pustaka teks, logika instruksi, dan arsitektur penalaran. Platform tidak memiliki agensi otonom, tidak mengeksekusi panggilan API ke sistem eksternal tanpa masukan eksplisit dari pengguna, dan tidak memiliki kendali atas lingkungan komputasi di mana prompt tersebut digunakan. Oleh karenanya, segala keputusan eksekusi berada 100% di tangan pengguna. Pasal 2 \u2014 Pembebasan Total Dari Pelanggaran Hukum Pihak Ketiga (Indemnification) Pengguna dengan ini menyatakan setuju untuk membela, mengganti rugi, dan membebaskan para kontributor, pengembang, pembuat kode, dan administrator platform dari dan terhadap setiap klaim, gugatan, biaya perkara peradilan, tuntutan ganti rugi, denda regulator, atau investigasi penegak hukum yang timbul dari: Pelanggaran Undang-Undang Informasi dan Transaksi Elektronik (UU ITE) atau hukum pidana/perdata di yurisdiksi Anda. Pelanggaran hak cipta, paten, rahasia dagang, atau kekayaan intelektual milik entitas mana pun. Pelanggaran terhadap Kebijakan Penggunaan (Acceptable Use Policy) dari Anthropic, OpenAI, Google, Meta, atau vendor AI lainnya. Penyusupan ke dalam sistem komputer, peretasan tidak sah, atau eksfiltrasi data privat. Pasal 3 \u2014 Ketentuan \"AS IS\" & Ketiadaan Garansi Mutlak SEMUA MATERI, SKRIP, DAN DOKUMEN DISEDIAKAN \"SEBAGAIMANA ADANYA\" TANPA JAMINAN DALAM BENTUK APA PUN, BAIK TERSURAT MAUPUN TERSIRAT. PENGEMBANG TIDAK MENJAMIN BAHWA INSTRUKSI PROMPT AKAN BEBAS DARI KESALAHAN (HALLUCINATIONS), COCOK UNTUK KEBUTUHAN KHUSUS ANDA, ATAU MEMENUHI STANDAR PRODUKSI TANPA VALIDASI MANUSIA. Pasal 4 \u2014 Deklarasi Status Donasi Setiap donasi sukarela yang diberikan oleh supporter adalah kontribusi nirlaba guna membiayai operasional infrastruktur server, lisensi database Firestore, dan eksperimen model bahasa. Donasi bukan merupakan kontrak jual-beli software komersial bergaransi, dan tidak memberikan hak jaminan bebas cacat atas prompt yang diakses. Salin Piagam Hukum Unduh Berkas .txt Terakhir Diperbarui: 10 Oktober 2026 \u00b7 Yurisdiksi Terbuka Matriks Perbandingan Kerangka Lisensi Bagaimana lisensi-lisensi ini melindungi kebebasan berkreasi sekaligus membebaskan pengembang dari tanggung jawab Parameter Lisensi MIT (Vault) GNU GPL v3 Apache 2.0 Tiki Supporter EULA Tanggung Jawab Hukum Pengembang TIDAK ADA (Bebas total) TIDAK ADA (Bebas total) TIDAK ADA (Bebas total) TIDAK ADA (User 100% bertanggung jawab) Kendali Eksekusi di Tangan Pengguna 100% Kendali User 100% Kendali User 100% Kendali User 100% Kendali User Penggunaan Komersial Diizinkan Bebas Diizinkan (Source tetap GPL) Diizinkan Bebas Diizinkan untuk Output Mandiri Modifikasi & Turunan Bebas dimodifikasi Bebas (Wajib Open Source) Bebas dimodifikasi Bebas untuk Kebutuhan Pribadi/Tim Klausul Bebas Garansi (Warranty) Klausul AS-IS eksplisit Bagian 15-16 AS-IS Bagian 7-8 AS-IS Klausul AS-IS + Anti-Liability Pertanyaan Umum Mengenai Hukum & Tanggung Jawab (FAQ) Jawaban ringkas terkait kepatuhan, keabsahan hukum, dan batasan tanggung jawab operasional Q: Apakah pengembang bertanggung jawab jika output dari prompt melanggar hukum? Sama sekali TIDAK. Platform ini hanya menyediakan templat arsitektur instruksi. Keputusan untuk mengeksekusi prompt, input yang Anda masukkan, serta bagaimana output tersebut didistribusikan adalah wewenang dan tanggung jawab hukum mutlak Anda sebagai pengguna. Pengembang dibebaskan secara hukum dari segala dampak tindakan Anda. Q: Apakah saya boleh menggunakan prompt dari Tiki Vault untuk keperluan komersial? Ya, prompt penalaran dan instruksi arsitektur kami dilisensikan bebas di bawah standar MIT License yang memperbolehkan penggunaan komersial. Namun, Anda tetap bertanggung jawab secara mandiri atas kepatuhan terhadap Terms of Service penyedia LLM (seperti Anthropic, OpenAI, atau Google). Q: Bagaimana jika prompt menghasilkan kode yang mengandung celah keamanan atau bug? Semua materi diberikan secara \"AS IS\" tanpa garansi dalam bentuk apa pun. Pengguna wajib melakukan pengujian keamanan, audit sintaks, dan peninjauan mandiri sebelum menerapkan kode ke lingkungan produksi. Kami tidak menanggung kerugian apa pun atas kegagalan sistem. Q: Apakah lisensi supporter dapat dialihkan ke perangkat lain jika perangkat saya rusak? Lisensi supporter terikat secara aman dengan sistem 1-Device-1-Key. Jika Anda mengganti perangkat utama karena perbaikan atau pergantian perangkat keras, silakan hubungi tim administrator melalui panel inbox/tiket dukungan untuk melakukan reset otorisasi secara legal. Siap Mengakses Koleksi Tiki Prompt Vault? Jelajahi ratusan prompt penalaran terverifikasi yang dilisensikan bebas di bawah MIT License. Buka Tiki Prompt Vault Dukung Komunitas"
+      ],
+      "numBadges": 32,
+      "disabled": []
+    }
+  }
+}

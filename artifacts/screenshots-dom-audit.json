@@ -1,0 +1,385 @@
+{
+  "desktop": {
+    "title": "TIKI-TIKI FIRE HUB",
+    "viewport": {
+      "w": 1440,
+      "h": 757
+    },
+    "docScroll": {
+      "w": 1440,
+      "h": 757
+    },
+    "horizontalOverflow": false,
+    "contrastFails": [],
+    "contrastFailCount": 0,
+    "smallTargets": [
+      {
+        "text": "Lewati Transisi",
+        "w": 146,
+        "h": 34
+      },
+      {
+        "text": "Dashboard\n0",
+        "w": 259,
+        "h": 35
+      },
+      {
+        "text": "AI Agent (Idle Workspace)\nLIVE",
+        "w": 259,
+        "h": 34
+      },
+      {
+        "text": "Tiki Vault\n0\nVIP",
+        "w": 259,
+        "h": 34
+      },
+      {
+        "text": "Lisensi & Legal\nLEGAL",
+        "w": 259,
+        "h": 34
+      },
+      {
+        "text": "Aktivasi Lisensi",
+        "w": 259,
+        "h": 32
+      },
+      {
+        "text": "Voting Fitur\n0",
+        "w": 259,
+        "h": 33
+      },
+      {
+        "text": "Beta Lab",
+        "w": 259,
+        "h": 32
+      },
+      {
+        "text": "Profil Pengguna",
+        "w": 259,
+        "h": 32
+      },
+      {
+        "text": "Cari Prompt & Lisensi",
+        "w": 36,
+        "h": 36
+      },
+      {
+        "text": "Kotak Masuk",
+        "w": 36,
+        "h": 36
+      },
+      {
+        "text": "Intro",
+        "w": 73,
+        "h": 32
+      },
+      {
+        "text": "Lisensi",
+        "w": 86,
+        "h": 32
+      },
+      {
+        "text": "AI Agent",
+        "w": 97,
+        "h": 32
+      },
+      {
+        "text": "Masuk",
+        "w": 85,
+        "h": 32
+      },
+      {
+        "text": "Ringkasan",
+        "w": 83,
+        "h": 30
+      },
+      {
+        "text": "AI Agent",
+        "w": 71,
+        "h": 28
+      },
+      {
+        "text": "Riwayat Donasi\n0",
+        "w": 135,
+        "h": 28
+      },
+      {
+        "text": "Tiki Vault\n0",
+        "w": 100,
+        "h": 28
+      },
+      {
+        "text": "Lisensi & Legal",
+        "w": 106,
+        "h": 28
+      }
+    ],
+    "smallTargetCount": 27,
+    "unnamedButtons": [],
+    "unnamedButtonCount": 0,
+    "tinyText": [
+      {
+        "text": "CONNECTING...",
+        "size": "11px"
+      },
+      {
+        "text": "41%",
+        "size": "11px"
+      },
+      {
+        "text": "Platform Utama",
+        "size": "11px"
+      },
+      {
+        "text": "0",
+        "size": "10px"
+      },
+      {
+        "text": "LIVE",
+        "size": "9px"
+      },
+      {
+        "text": "0",
+        "size": "10px"
+      },
+      {
+        "text": "VIP",
+        "size": "9px"
+      },
+      {
+        "text": "LEGAL",
+        "size": "9px"
+      },
+      {
+        "text": "Komunitas",
+        "size": "11px"
+      },
+      {
+        "text": "0",
+        "size": "10px"
+      },
+      {
+        "text": "Akun & Profil",
+        "size": "11px"
+      },
+      {
+        "text": "0",
+        "size": "10px"
+      }
+    ],
+    "tinyTextCount": 13,
+    "headings": [
+      "H1:Tiki-Tiki Fire Hub",
+      "H2:Dashboard",
+      "H2:Pusat Lisensi Supporter & Koleksi Prompt",
+      "H3:Koleksi Terpopuler Tiki Prompt Vault"
+    ],
+    "landmarks": {
+      "main": 1,
+      "nav": 0,
+      "header": 1,
+      "footer": 0
+    },
+    "ariaLabels": 3,
+    "images": [],
+    "bodyBg": "rgb(6, 7, 10)",
+    "fontBody": "\"Plus Jakarta Sans\", system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif",
+    "interactiveCount": 29,
+    "scrollY": 0,
+    "reducedMotionSupport": false
+  },
+  "mobile": {
+    "title": "TIKI-TIKI FIRE HUB",
+    "viewport": {
+      "w": 500,
+      "h": 701
+    },
+    "docScroll": {
+      "w": 500,
+      "h": 701
+    },
+    "horizontalOverflow": false,
+    "contrastFails": [],
+    "contrastFailCount": 0,
+    "smallTargets": [
+      {
+        "text": "Masuk Sekarang",
+        "w": 156,
+        "h": 34
+      },
+      {
+        "text": "",
+        "w": 28,
+        "h": 28
+      },
+      {
+        "text": "Dashboard\n0",
+        "w": 259,
+        "h": 35
+      },
+      {
+        "text": "AI Agent (Idle Workspace)\nLIVE",
+        "w": 259,
+        "h": 34
+      },
+      {
+        "text": "Tiki Vault\n0\nVIP",
+        "w": 259,
+        "h": 34
+      },
+      {
+        "text": "Lisensi & Legal\nLEGAL",
+        "w": 259,
+        "h": 34
+      },
+      {
+        "text": "Aktivasi Lisensi",
+        "w": 259,
+        "h": 32
+      },
+      {
+        "text": "Voting Fitur\n0",
+        "w": 259,
+        "h": 33
+      },
+      {
+        "text": "Beta Lab",
+        "w": 259,
+        "h": 32
+      },
+      {
+        "text": "Profil Pengguna",
+        "w": 259,
+        "h": 32
+      },
+      {
+        "text": "Buka Navigasi",
+        "w": 32,
+        "h": 32
+      },
+      {
+        "text": "Cari Prompt & Lisensi",
+        "w": 32,
+        "h": 32
+      },
+      {
+        "text": "Kotak Masuk",
+        "w": 32,
+        "h": 32
+      },
+      {
+        "text": "",
+        "w": 32,
+        "h": 32
+      },
+      {
+        "text": "AI Agent",
+        "w": 89,
+        "h": 32
+      },
+      {
+        "text": "Masuk",
+        "w": 77,
+        "h": 32
+      },
+      {
+        "text": "Ringkasan",
+        "w": 83,
+        "h": 30
+      },
+      {
+        "text": "AI Agent",
+        "w": 71,
+        "h": 28
+      },
+      {
+        "text": "Riwayat Donasi\n0",
+        "w": 135,
+        "h": 28
+      },
+      {
+        "text": "Tiki Vault\n0",
+        "w": 100,
+        "h": 28
+      }
+    ],
+    "smallTargetCount": 28,
+    "unnamedButtons": [
+      {
+        "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 2",
+        "w": 28
+      }
+    ],
+    "unnamedButtonCount": 1,
+    "tinyText": [
+      {
+        "text": "CONNECTING...",
+        "size": "11px"
+      },
+      {
+        "text": "100%",
+        "size": "11px"
+      },
+      {
+        "text": "Platform Utama",
+        "size": "11px"
+      },
+      {
+        "text": "0",
+        "size": "10px"
+      },
+      {
+        "text": "LIVE",
+        "size": "9px"
+      },
+      {
+        "text": "0",
+        "size": "10px"
+      },
+      {
+        "text": "VIP",
+        "size": "9px"
+      },
+      {
+        "text": "LEGAL",
+        "size": "9px"
+      },
+      {
+        "text": "Komunitas",
+        "size": "11px"
+      },
+      {
+        "text": "0",
+        "size": "10px"
+      },
+      {
+        "text": "Akun & Profil",
+        "size": "11px"
+      },
+      {
+        "text": "0",
+        "size": "10px"
+      }
+    ],
+    "tinyTextCount": 13,
+    "headings": [
+      "H1:Tiki-Tiki Fire Hub",
+      "H2:Dashboard",
+      "H2:Pusat Lisensi Supporter & Koleksi Prompt",
+      "H3:Koleksi Terpopuler Tiki Prompt Vault"
+    ],
+    "landmarks": {
+      "main": 1,
+      "nav": 0,
+      "header": 1,
+      "footer": 0
+    },
+    "ariaLabels": 3,
+    "images": [],
+    "bodyBg": "rgb(6, 7, 10)",
+    "fontBody": "\"Plus Jakarta Sans\", system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif",
+    "interactiveCount": 29,
+    "scrollY": 0,
+    "reducedMotionSupport": false
+  }
+}
